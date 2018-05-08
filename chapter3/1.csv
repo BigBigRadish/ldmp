@@ -1,0 +1,1320 @@
+,Date,start,Visitor Team,visitorPts,Home Team,homePts,Score Type,OT?,Notes,HomeWin,HomeLastWin,VisitorLastWin
+0,2013-10-29,7:00 pm,Orlando Magic,87,Indiana Pacers,97,Box Score,,,True,True,False
+1,2013-10-29,10:30 pm,Los Angeles Clippers,103,Los Angeles Lakers,116,Box Score,,,True,True,False
+2,2013-10-29,8:00 pm,Chicago Bulls,95,Miami Heat,107,Box Score,,,True,True,False
+3,2013-10-30,7:00 pm,Brooklyn Nets,94,Cleveland Cavaliers,98,Box Score,,,True,True,False
+4,2013-10-30,8:30 pm,Atlanta Hawks,109,Dallas Mavericks,118,Box Score,,,True,True,False
+5,2013-10-30,7:30 pm,Washington Wizards,102,Detroit Pistons,113,Box Score,,,True,True,False
+6,2013-10-30,10:30 pm,Los Angeles Lakers,94,Golden State Warriors,125,Box Score,,,True,True,False
+7,2013-10-30,8:00 pm,Charlotte Bobcats,83,Houston Rockets,96,Box Score,,,True,True,False
+8,2013-10-30,8:00 pm,Orlando Magic,115,Minnesota Timberwolves,120,Box Score,OT,,True,True,False
+9,2013-10-30,8:00 pm,Indiana Pacers,95,New Orleans Pelicans,90,Box Score,,,False,False,True
+10,2013-10-30,7:30 pm,Milwaukee Bucks,83,New York Knicks,90,Box Score,,,True,True,False
+11,2013-10-30,7:00 pm,Miami Heat,110,Philadelphia 76ers,114,Box Score,,,True,True,False
+12,2013-10-30,10:00 pm,Portland Trail Blazers,91,Phoenix Suns,104,Box Score,,,True,True,False
+13,2013-10-30,10:00 pm,Denver Nuggets,88,Sacramento Kings,90,Box Score,,,True,True,False
+14,2013-10-30,8:30 pm,Memphis Grizzlies,94,San Antonio Spurs,101,Box Score,,,True,True,False
+15,2013-10-30,7:00 pm,Boston Celtics,87,Toronto Raptors,93,Box Score,,,True,True,False
+16,2013-10-30,9:00 pm,Oklahoma City Thunder,101,Utah Jazz,98,Box Score,,,False,False,True
+17,2013-10-31,8:00 pm,New York Knicks,81,Chicago Bulls,82,Box Score,,,True,True,False
+18,2013-10-31,10:30 pm,Golden State Warriors,115,Los Angeles Clippers,126,Box Score,,,True,True,False
+19,2013-11-01,7:30 pm,Toronto Raptors,95,Atlanta Hawks,102,Box Score,,,True,True,False
+20,2013-11-01,7:30 pm,Milwaukee Bucks,105,Boston Celtics,98,Box Score,,,False,False,True
+21,2013-11-01,8:00 pm,Miami Heat,100,Brooklyn Nets,101,Box Score,,,True,True,False
+22,2013-11-01,7:00 pm,Cleveland Cavaliers,84,Charlotte Bobcats,90,Box Score,,,True,True,False
+23,2013-11-01,9:00 pm,Portland Trail Blazers,113,Denver Nuggets,98,Box Score,,,False,False,True
+24,2013-11-01,8:00 pm,Dallas Mavericks,105,Houston Rockets,113,Box Score,,,True,True,False
+25,2013-11-01,10:30 pm,San Antonio Spurs,91,Los Angeles Lakers,85,Box Score,,,False,False,True
+26,2013-11-01,8:00 pm,Detroit Pistons,108,Memphis Grizzlies,111,Box Score,OT,,True,True,False
+27,2013-11-01,8:00 pm,Oklahoma City Thunder,81,Minnesota Timberwolves,100,Box Score,,,True,True,False
+28,2013-11-01,7:00 pm,New Orleans Pelicans,90,Orlando Magic,110,Box Score,,,True,True,False
+29,2013-11-01,10:00 pm,Utah Jazz,84,Phoenix Suns,87,Box Score,,,True,True,False
+30,2013-11-01,10:00 pm,Los Angeles Clippers,110,Sacramento Kings,101,Box Score,,,False,False,True
+31,2013-11-01,7:00 pm,Philadelphia 76ers,109,Washington Wizards,102,Box Score,,,False,False,True
+32,2013-11-02,8:30 pm,Memphis Grizzlies,99,Dallas Mavericks,111,Box Score,,,True,True,False
+33,2013-11-02,10:30 pm,Sacramento Kings,87,Golden State Warriors,98,Box Score,,,True,True,False
+34,2013-11-02,7:00 pm,Cleveland Cavaliers,74,Indiana Pacers,89,Box Score,,,True,True,False
+35,2013-11-02,8:30 pm,Toronto Raptors,97,Milwaukee Bucks,90,Box Score,,,False,False,True
+36,2013-11-02,8:00 pm,Charlotte Bobcats,84,New Orleans Pelicans,105,Box Score,,,True,True,False
+37,2013-11-02,7:30 pm,Chicago Bulls,104,Philadelphia 76ers,107,Box Score,,,True,True,False
+38,2013-11-02,10:00 pm,San Antonio Spurs,105,Portland Trail Blazers,115,Box Score,,,True,True,False
+39,2013-11-02,9:00 pm,Houston Rockets,104,Utah Jazz,93,Box Score,,,False,False,True
+40,2013-11-03,6:00 pm,Boston Celtics,77,Detroit Pistons,87,Box Score,,,True,True,False
+41,2013-11-03,9:30 pm,Atlanta Hawks,103,Los Angeles Lakers,105,Box Score,,,True,True,False
+42,2013-11-03,6:00 pm,Washington Wizards,93,Miami Heat,103,Box Score,,,True,True,False
+43,2013-11-03,7:30 pm,Minnesota Timberwolves,109,New York Knicks,100,Box Score,,,False,False,True
+44,2013-11-03,7:00 pm,Phoenix Suns,96,Oklahoma City Thunder,103,Box Score,,,True,True,False
+45,2013-11-03,6:00 pm,Brooklyn Nets,86,Orlando Magic,107,Box Score,,,True,True,False
+46,2013-11-04,7:00 pm,Minnesota Timberwolves,92,Cleveland Cavaliers,93,Box Score,,,True,True,False
+47,2013-11-04,10:30 pm,Houston Rockets,118,Los Angeles Clippers,137,Box Score,,,True,True,False
+48,2013-11-04,8:00 pm,Boston Celtics,88,Memphis Grizzlies,95,Box Score,,,True,True,False
+49,2013-11-04,7:00 pm,Golden State Warriors,110,Philadelphia 76ers,90,Box Score,,,False,False,True
+50,2013-11-05,7:30 pm,Utah Jazz,88,Brooklyn Nets,104,Box Score,,,True,True,False
+51,2013-11-05,8:30 pm,Los Angeles Lakers,104,Dallas Mavericks,123,Box Score,,,True,True,False
+52,2013-11-05,9:00 pm,San Antonio Spurs,102,Denver Nuggets,94,Box Score,,,False,False,True
+53,2013-11-05,7:30 pm,Indiana Pacers,99,Detroit Pistons,91,Box Score,,,False,False,True
+54,2013-11-05,8:00 pm,Phoenix Suns,104,New Orleans Pelicans,98,Box Score,,,False,False,True
+55,2013-11-05,7:30 pm,Charlotte Bobcats,102,New York Knicks,97,Box Score,,,False,False,True
+56,2013-11-05,10:00 pm,Houston Rockets,116,Portland Trail Blazers,101,Box Score,,,False,False,True
+57,2013-11-05,10:00 pm,Atlanta Hawks,105,Sacramento Kings,100,Box Score,,,False,False,True
+58,2013-11-05,7:00 pm,Miami Heat,104,Toronto Raptors,95,Box Score,,,False,False,True
+59,2013-11-06,7:30 pm,Utah Jazz,87,Boston Celtics,97,Box Score,,,True,True,False
+60,2013-11-06,7:00 pm,Toronto Raptors,90,Charlotte Bobcats,92,Box Score,,,True,True,False
+61,2013-11-06,7:00 pm,Chicago Bulls,80,Indiana Pacers,97,Box Score,,,True,True,False
+62,2013-11-06,8:00 pm,New Orleans Pelicans,99,Memphis Grizzlies,84,Box Score,,,False,False,True
+63,2013-11-06,8:00 pm,Cleveland Cavaliers,104,Milwaukee Bucks,109,Box Score,,,True,True,False
+64,2013-11-06,8:00 pm,Golden State Warriors,106,Minnesota Timberwolves,93,Box Score,,,False,False,True
+65,2013-11-06,9:30 pm,Dallas Mavericks,93,Oklahoma City Thunder,107,Box Score,,,True,True,False
+66,2013-11-06,7:00 pm,Los Angeles Clippers,90,Orlando Magic,98,Box Score,,,True,True,False
+67,2013-11-06,7:00 pm,Washington Wizards,116,Philadelphia 76ers,102,Box Score,,,False,False,True
+68,2013-11-06,8:30 pm,Phoenix Suns,96,San Antonio Spurs,99,Box Score,,,True,True,False
+69,2013-11-07,9:00 pm,Atlanta Hawks,107,Denver Nuggets,109,Box Score,,,True,True,False
+70,2013-11-07,9:30 pm,Los Angeles Lakers,99,Houston Rockets,98,Box Score,,,False,False,True
+71,2013-11-07,7:00 pm,Los Angeles Clippers,97,Miami Heat,102,Box Score,,,True,True,False
+72,2013-11-08,7:00 pm,New York Knicks,101,Charlotte Bobcats,91,Box Score,,,False,False,True
+73,2013-11-08,8:00 pm,Utah Jazz,73,Chicago Bulls,97,Box Score,,,True,True,False
+74,2013-11-08,7:30 pm,Oklahoma City Thunder,119,Detroit Pistons,110,Box Score,,,False,False,True
+75,2013-11-08,7:00 pm,Toronto Raptors,84,Indiana Pacers,91,Box Score,,,True,True,False
+76,2013-11-08,8:00 pm,Dallas Mavericks,108,Minnesota Timberwolves,116,Box Score,,,True,True,False
+77,2013-11-08,8:00 pm,Los Angeles Lakers,85,New Orleans Pelicans,96,Box Score,,,True,True,False
+78,2013-11-08,7:00 pm,Boston Celtics,91,Orlando Magic,89,Box Score,,,False,False,True
+79,2013-11-08,7:00 pm,Cleveland Cavaliers,79,Philadelphia 76ers,94,Box Score,,,True,True,False
+80,2013-11-08,9:00 pm,Denver Nuggets,103,Phoenix Suns,114,Box Score,,,True,True,False
+81,2013-11-08,10:00 pm,Sacramento Kings,91,Portland Trail Blazers,104,Box Score,,,True,True,False
+82,2013-11-08,8:30 pm,Golden State Warriors,74,San Antonio Spurs,76,Box Score,,,True,True,False
+83,2013-11-08,7:00 pm,Brooklyn Nets,108,Washington Wizards,112,Box Score,OT,,True,True,False
+84,2013-11-09,7:30 pm,Orlando Magic,94,Atlanta Hawks,104,Box Score,,,True,True,False
+85,2013-11-09,7:30 pm,Indiana Pacers,96,Brooklyn Nets,91,Box Score,,,False,False,True
+86,2013-11-09,7:30 pm,Philadelphia 76ers,125,Cleveland Cavaliers,127,Box Score,2OT,,True,True,False
+87,2013-11-09,8:00 pm,Los Angeles Clippers,107,Houston Rockets,94,Box Score,,,False,False,True
+88,2013-11-09,8:00 pm,Golden State Warriors,90,Memphis Grizzlies,108,Box Score,,,True,True,False
+89,2013-11-09,7:30 pm,Boston Celtics,111,Miami Heat,110,Box Score,,,False,False,True
+90,2013-11-09,8:30 pm,Dallas Mavericks,91,Milwaukee Bucks,83,Box Score,,,False,False,True
+91,2013-11-09,10:00 pm,Portland Trail Blazers,96,Sacramento Kings,85,Box Score,,,False,False,True
+92,2013-11-09,7:00 pm,Utah Jazz,91,Toronto Raptors,115,Box Score,,,True,True,False
+93,2013-11-10,9:30 pm,Minnesota Timberwolves,113,Los Angeles Lakers,90,Box Score,,,False,False,True
+94,2013-11-10,12:00 am,San Antonio Spurs,120,New York Knicks,89,Box Score,,,False,False,True
+95,2013-11-10,7:00 pm,Washington Wizards,105,Oklahoma City Thunder,106,Box Score,OT,,True,True,False
+96,2013-11-10,8:00 pm,New Orleans Pelicans,94,Phoenix Suns,101,Box Score,,,True,True,False
+97,2013-11-11,7:30 pm,Orlando Magic,105,Boston Celtics,120,Box Score,,,True,True,False
+98,2013-11-11,7:00 pm,Atlanta Hawks,103,Charlotte Bobcats,94,Box Score,,,False,False,True
+99,2013-11-11,8:00 pm,Cleveland Cavaliers,81,Chicago Bulls,96,Box Score,,,True,True,False
+100,2013-11-11,8:00 pm,Toronto Raptors,104,Houston Rockets,110,Box Score,2OT,,True,True,False
+101,2013-11-11,7:00 pm,Memphis Grizzlies,79,Indiana Pacers,95,Box Score,,,True,True,False
+102,2013-11-11,10:30 pm,Minnesota Timberwolves,107,Los Angeles Clippers,109,Box Score,,,True,True,False
+103,2013-11-11,7:00 pm,San Antonio Spurs,109,Philadelphia 76ers,85,Box Score,,,False,False,True
+104,2013-11-11,10:00 pm,Detroit Pistons,103,Portland Trail Blazers,109,Box Score,,,True,True,False
+105,2013-11-11,9:00 pm,Denver Nuggets,100,Utah Jazz,81,Box Score,,,False,False,True
+106,2013-11-12,8:30 pm,Washington Wizards,95,Dallas Mavericks,105,Box Score,,,True,True,False
+107,2013-11-12,10:30 pm,Detroit Pistons,95,Golden State Warriors,113,Box Score,,,True,True,False
+108,2013-11-12,10:30 pm,New Orleans Pelicans,95,Los Angeles Lakers,116,Box Score,,,True,True,False
+109,2013-11-12,7:30 pm,Milwaukee Bucks,95,Miami Heat,118,Box Score,,,True,True,False
+110,2013-11-13,8:00 pm,New York Knicks,95,Atlanta Hawks,91,Box Score,,,False,False,True
+111,2013-11-13,7:30 pm,Charlotte Bobcats,89,Boston Celtics,83,Box Score,,,False,False,True
+112,2013-11-13,9:00 pm,Los Angeles Lakers,99,Denver Nuggets,111,Box Score,,,True,True,False
+113,2013-11-13,10:30 pm,Oklahoma City Thunder,103,Los Angeles Clippers,111,Box Score,,,True,True,False
+114,2013-11-13,8:00 pm,Toronto Raptors,103,Memphis Grizzlies,87,Box Score,,,False,False,True
+115,2013-11-13,8:00 pm,Cleveland Cavaliers,95,Minnesota Timberwolves,124,Box Score,,,True,True,False
+116,2013-11-13,7:00 pm,Milwaukee Bucks,91,Orlando Magic,94,Box Score,,,True,True,False
+117,2013-11-13,7:00 pm,Houston Rockets,117,Philadelphia 76ers,123,Box Score,OT,,True,True,False
+118,2013-11-13,10:00 pm,Phoenix Suns,89,Portland Trail Blazers,90,Box Score,,,True,True,False
+119,2013-11-13,10:00 pm,Brooklyn Nets,86,Sacramento Kings,107,Box Score,,,True,True,False
+120,2013-11-13,8:30 pm,Washington Wizards,79,San Antonio Spurs,92,Box Score,,,True,True,False
+121,2013-11-13,9:00 pm,New Orleans Pelicans,105,Utah Jazz,111,Box Score,,,True,True,False
+122,2013-11-14,10:30 pm,Oklahoma City Thunder,115,Golden State Warriors,116,Box Score,,,True,True,False
+123,2013-11-14,8:00 pm,Houston Rockets,109,New York Knicks,106,Box Score,,,False,False,True
+124,2013-11-15,7:30 pm,Philadelphia 76ers,103,Atlanta Hawks,113,Box Score,,,True,True,False
+125,2013-11-15,7:30 pm,Portland Trail Blazers,109,Boston Celtics,96,Box Score,,,False,False,True
+126,2013-11-15,7:30 pm,Charlotte Bobcats,86,Cleveland Cavaliers,80,Box Score,,,False,False,True
+127,2013-11-15,8:00 pm,Minnesota Timberwolves,113,Denver Nuggets,117,Box Score,,,True,True,False
+128,2013-11-15,7:00 pm,Milwaukee Bucks,77,Indiana Pacers,104,Box Score,,,True,True,False
+129,2013-11-15,10:30 pm,Memphis Grizzlies,89,Los Angeles Lakers,86,Box Score,,,False,False,True
+130,2013-11-15,7:30 pm,Dallas Mavericks,104,Miami Heat,110,Box Score,,,True,True,False
+131,2013-11-15,9:00 pm,Brooklyn Nets,100,Phoenix Suns,98,Box Score,OT,,False,False,True
+132,2013-11-15,10:30 pm,Detroit Pistons,97,Sacramento Kings,90,Box Score,,,False,False,True
+133,2013-11-15,7:00 pm,Chicago Bulls,96,Toronto Raptors,80,Box Score,,,False,False,True
+134,2013-11-15,9:00 pm,San Antonio Spurs,91,Utah Jazz,82,Box Score,,,False,False,True
+135,2013-11-16,7:00 pm,Miami Heat,97,Charlotte Bobcats,81,Box Score,,,False,False,True
+136,2013-11-16,8:00 pm,Indiana Pacers,94,Chicago Bulls,110,Box Score,,,True,True,False
+137,2013-11-16,10:30 pm,Utah Jazz,88,Golden State Warriors,102,Box Score,,,True,True,False
+138,2013-11-16,8:00 pm,Denver Nuggets,111,Houston Rockets,122,Box Score,,,True,True,False
+139,2013-11-16,10:30 pm,Brooklyn Nets,103,Los Angeles Clippers,110,Box Score,,,True,True,False
+140,2013-11-16,8:30 pm,Oklahoma City Thunder,92,Milwaukee Bucks,79,Box Score,,,False,False,True
+141,2013-11-16,8:00 pm,Boston Celtics,88,Minnesota Timberwolves,106,Box Score,,,True,True,False
+142,2013-11-16,8:00 pm,Philadelphia 76ers,98,New Orleans Pelicans,135,Box Score,,,True,True,False
+143,2013-11-16,7:30 pm,Atlanta Hawks,110,New York Knicks,90,Box Score,,,False,False,True
+144,2013-11-16,7:00 pm,Dallas Mavericks,108,Orlando Magic,100,Box Score,,,False,False,True
+145,2013-11-16,7:00 pm,Cleveland Cavaliers,103,Washington Wizards,96,Box Score,OT,,False,False,True
+146,2013-11-17,9:30 pm,Detroit Pistons,99,Los Angeles Lakers,114,Box Score,,,True,True,False
+147,2013-11-17,6:00 pm,Memphis Grizzlies,97,Sacramento Kings,86,Box Score,,,False,False,True
+148,2013-11-17,1:00 pm,Portland Trail Blazers,118,Toronto Raptors,110,Box Score,OT,,False,False,True
+149,2013-11-18,7:30 pm,Portland Trail Blazers,108,Brooklyn Nets,98,Box Score,,,False,False,True
+150,2013-11-18,8:00 pm,Charlotte Bobcats,81,Chicago Bulls,86,Box Score,,,True,True,False
+151,2013-11-18,8:30 pm,Philadelphia 76ers,94,Dallas Mavericks,97,Box Score,,,True,True,False
+152,2013-11-18,10:30 pm,Memphis Grizzlies,106,Los Angeles Clippers,102,Box Score,,,False,False,True
+153,2013-11-18,8:00 pm,Denver Nuggets,113,Oklahoma City Thunder,115,Box Score,,,True,True,False
+154,2013-11-18,9:00 pm,Golden State Warriors,98,Utah Jazz,87,Box Score,,,False,False,True
+155,2013-11-19,7:30 pm,New York Knicks,86,Detroit Pistons,92,Box Score,,,True,True,False
+156,2013-11-19,8:00 pm,Boston Celtics,85,Houston Rockets,109,Box Score,,,True,True,False
+157,2013-11-19,7:30 pm,Atlanta Hawks,88,Miami Heat,104,Box Score,,,True,True,False
+158,2013-11-19,10:00 pm,Phoenix Suns,104,Sacramento Kings,107,Box Score,,,True,True,False
+159,2013-11-19,7:00 pm,Minnesota Timberwolves,100,Washington Wizards,104,Box Score,,,True,True,False
+160,2013-11-20,7:30 pm,Detroit Pistons,85,Atlanta Hawks,93,Box Score,,,True,True,False
+161,2013-11-20,7:00 pm,Brooklyn Nets,91,Charlotte Bobcats,95,Box Score,,,True,True,False
+162,2013-11-20,7:00 pm,Washington Wizards,98,Cleveland Cavaliers,91,Box Score,,,False,False,True
+163,2013-11-20,9:30 pm,Houston Rockets,120,Dallas Mavericks,123,Box Score,,,True,True,False
+164,2013-11-20,10:30 pm,Memphis Grizzlies,88,Golden State Warriors,81,Box Score,OT,,False,False,True
+165,2013-11-20,8:00 pm,Portland Trail Blazers,91,Milwaukee Bucks,82,Box Score,,,False,False,True
+166,2013-11-20,8:00 pm,Los Angeles Clippers,102,Minnesota Timberwolves,98,Box Score,,,False,False,True
+167,2013-11-20,8:00 pm,Utah Jazz,98,New Orleans Pelicans,105,Box Score,,,True,True,False
+168,2013-11-20,7:00 pm,Indiana Pacers,103,New York Knicks,96,Box Score,OT,,False,False,True
+169,2013-11-20,7:00 pm,Miami Heat,120,Orlando Magic,92,Box Score,,,False,False,True
+170,2013-11-20,7:00 pm,Toronto Raptors,108,Philadelphia 76ers,98,Box Score,,,False,False,True
+171,2013-11-20,9:00 pm,Sacramento Kings,113,Phoenix Suns,106,Box Score,,,False,False,True
+172,2013-11-20,8:30 pm,Boston Celtics,93,San Antonio Spurs,104,Box Score,,,True,True,False
+173,2013-11-21,10:30 pm,Chicago Bulls,87,Denver Nuggets,97,Box Score,,,True,True,False
+174,2013-11-21,8:00 pm,Los Angeles Clippers,91,Oklahoma City Thunder,105,Box Score,,,True,True,False
+175,2013-11-22,7:30 pm,Indiana Pacers,97,Boston Celtics,82,Box Score,,,False,False,True
+176,2013-11-22,7:00 pm,Phoenix Suns,98,Charlotte Bobcats,91,Box Score,,,False,False,True
+177,2013-11-22,8:30 pm,Utah Jazz,93,Dallas Mavericks,103,Box Score,,,True,True,False
+178,2013-11-22,7:30 pm,Atlanta Hawks,96,Detroit Pistons,89,Box Score,,,False,False,True
+179,2013-11-22,10:30 pm,Golden State Warriors,95,Los Angeles Lakers,102,Box Score,,,True,True,False
+180,2013-11-22,8:00 pm,San Antonio Spurs,102,Memphis Grizzlies,86,Box Score,,,False,False,True
+181,2013-11-22,8:00 pm,Brooklyn Nets,81,Minnesota Timberwolves,111,Box Score,,,True,True,False
+182,2013-11-22,8:00 pm,Cleveland Cavaliers,100,New Orleans Pelicans,104,Box Score,,,True,True,False
+183,2013-11-22,7:00 pm,Milwaukee Bucks,107,Philadelphia 76ers,115,Box Score,OT,,True,True,False
+184,2013-11-22,10:00 pm,Chicago Bulls,95,Portland Trail Blazers,98,Box Score,,,True,True,False
+185,2013-11-22,7:00 pm,Washington Wizards,88,Toronto Raptors,96,Box Score,,,True,True,False
+186,2013-11-23,7:30 pm,Boston Celtics,94,Atlanta Hawks,87,Box Score,,,False,False,True
+187,2013-11-23,9:00 pm,Dallas Mavericks,100,Denver Nuggets,102,Box Score,,,True,True,False
+188,2013-11-23,10:30 pm,Portland Trail Blazers,113,Golden State Warriors,101,Box Score,,,False,False,True
+189,2013-11-23,8:00 pm,Minnesota Timberwolves,101,Houston Rockets,112,Box Score,,,True,True,False
+190,2013-11-23,7:00 pm,Philadelphia 76ers,98,Indiana Pacers,106,Box Score,,,True,True,False
+191,2013-11-23,3:30 pm,Sacramento Kings,102,Los Angeles Clippers,103,Box Score,,,True,True,False
+192,2013-11-23,7:30 pm,Orlando Magic,99,Miami Heat,101,Box Score,,,True,True,False
+193,2013-11-23,8:30 pm,Charlotte Bobcats,96,Milwaukee Bucks,72,Box Score,,,False,False,True
+194,2013-11-23,8:30 pm,Cleveland Cavaliers,96,San Antonio Spurs,126,Box Score,,,True,True,False
+195,2013-11-23,7:00 pm,New York Knicks,89,Washington Wizards,98,Box Score,,,True,True,False
+196,2013-11-24,2:00 pm,Detroit Pistons,109,Brooklyn Nets,97,Box Score,,,False,False,True
+197,2013-11-24,3:30 pm,Chicago Bulls,82,Los Angeles Clippers,121,Box Score,,,True,True,False
+198,2013-11-24,9:30 pm,Sacramento Kings,86,Los Angeles Lakers,100,Box Score,,,True,True,False
+199,2013-11-24,7:00 pm,Utah Jazz,73,Oklahoma City Thunder,95,Box Score,,,True,True,False
+200,2013-11-24,6:00 pm,Phoenix Suns,104,Orlando Magic,96,Box Score,,,False,False,True
+201,2013-11-25,7:00 pm,Boston Celtics,96,Charlotte Bobcats,86,Box Score,,,False,False,True
+202,2013-11-25,8:30 pm,Denver Nuggets,110,Dallas Mavericks,96,Box Score,,,False,False,True
+203,2013-11-25,7:30 pm,Milwaukee Bucks,94,Detroit Pistons,113,Box Score,,,True,True,False
+204,2013-11-25,7:00 pm,Minnesota Timberwolves,84,Indiana Pacers,98,Box Score,,,True,True,False
+205,2013-11-25,8:00 pm,Houston Rockets,93,Memphis Grizzlies,86,Box Score,,,False,False,True
+206,2013-11-25,7:30 pm,Phoenix Suns,92,Miami Heat,107,Box Score,,,True,True,False
+207,2013-11-25,10:00 pm,New York Knicks,91,Portland Trail Blazers,102,Box Score,,,True,True,False
+208,2013-11-25,8:30 pm,New Orleans Pelicans,93,San Antonio Spurs,112,Box Score,,,True,True,False
+209,2013-11-25,9:00 pm,Chicago Bulls,83,Utah Jazz,89,Box Score,OT,,True,True,False
+210,2013-11-26,7:30 pm,Orlando Magic,109,Atlanta Hawks,92,Box Score,,,False,False,True
+211,2013-11-26,8:00 pm,Golden State Warriors,102,New Orleans Pelicans,101,Box Score,,,False,False,True
+212,2013-11-26,7:00 pm,Brooklyn Nets,102,Toronto Raptors,100,Box Score,,,False,False,True
+213,2013-11-26,7:00 pm,Los Angeles Lakers,111,Washington Wizards,116,Box Score,,,True,True,False
+214,2013-11-27,7:30 pm,Memphis Grizzlies,100,Boston Celtics,93,Box Score,,,False,False,True
+215,2013-11-27,7:30 pm,Los Angeles Lakers,99,Brooklyn Nets,94,Box Score,,,False,False,True
+216,2013-11-27,7:00 pm,Indiana Pacers,99,Charlotte Bobcats,74,Box Score,,,False,False,True
+217,2013-11-27,7:30 pm,Miami Heat,95,Cleveland Cavaliers,84,Box Score,,,False,False,True
+218,2013-11-27,8:30 pm,Golden State Warriors,99,Dallas Mavericks,103,Box Score,,,True,True,False
+219,2013-11-27,7:30 pm,Chicago Bulls,99,Detroit Pistons,79,Box Score,,,False,False,True
+220,2013-11-27,8:00 pm,Atlanta Hawks,84,Houston Rockets,113,Box Score,,,True,True,False
+221,2013-11-27,10:30 pm,New York Knicks,80,Los Angeles Clippers,93,Box Score,,,True,True,False
+222,2013-11-27,8:00 pm,Washington Wizards,100,Milwaukee Bucks,92,Box Score,OT,,False,False,True
+223,2013-11-27,8:00 pm,Denver Nuggets,117,Minnesota Timberwolves,110,Box Score,,,False,False,True
+224,2013-11-27,8:00 pm,San Antonio Spurs,88,Oklahoma City Thunder,94,Box Score,,,True,True,False
+225,2013-11-27,7:00 pm,Philadelphia 76ers,94,Orlando Magic,105,Box Score,,,True,True,False
+226,2013-11-27,9:00 pm,Portland Trail Blazers,106,Phoenix Suns,120,Box Score,,,True,True,False
+227,2013-11-29,7:30 pm,Dallas Mavericks,87,Atlanta Hawks,88,Box Score,,,True,True,False
+228,2013-11-29,7:30 pm,Cleveland Cavaliers,86,Boston Celtics,103,Box Score,,,True,True,False
+229,2013-11-29,7:00 pm,Milwaukee Bucks,76,Charlotte Bobcats,92,Box Score,,,True,True,False
+230,2013-11-29,9:00 pm,New York Knicks,95,Denver Nuggets,97,Box Score,,,True,True,False
+231,2013-11-29,7:30 pm,Los Angeles Lakers,106,Detroit Pistons,102,Box Score,,,False,False,True
+232,2013-11-29,8:00 pm,Brooklyn Nets,95,Houston Rockets,114,Box Score,,,True,True,False
+233,2013-11-29,8:00 pm,Washington Wizards,73,Indiana Pacers,93,Box Score,,,True,True,False
+234,2013-11-29,8:00 pm,Golden State Warriors,112,Oklahoma City Thunder,113,Box Score,OT,,True,True,False
+235,2013-11-29,7:00 pm,San Antonio Spurs,109,Orlando Magic,91,Box Score,,,False,False,True
+236,2013-11-29,8:00 pm,New Orleans Pelicans,121,Philadelphia 76ers,105,Box Score,,,False,False,True
+237,2013-11-29,10:00 pm,Los Angeles Clippers,104,Sacramento Kings,98,Box Score,OT,,False,False,True
+238,2013-11-29,7:00 pm,Miami Heat,90,Toronto Raptors,83,Box Score,,,False,False,True
+239,2013-11-29,9:00 pm,Phoenix Suns,112,Utah Jazz,101,Box Score,,,False,False,True
+240,2013-11-30,7:30 pm,Chicago Bulls,93,Cleveland Cavaliers,97,Box Score,,,True,True,False
+241,2013-11-30,8:30 pm,Minnesota Timberwolves,112,Dallas Mavericks,106,Box Score,,,False,False,True
+242,2013-11-30,8:00 pm,Brooklyn Nets,97,Memphis Grizzlies,88,Box Score,,,False,False,True
+243,2013-11-30,9:00 pm,Boston Celtics,85,Milwaukee Bucks,92,Box Score,,,True,True,False
+244,2013-11-30,9:00 pm,Utah Jazz,112,Phoenix Suns,104,Box Score,,,False,False,True
+245,2013-11-30,8:30 pm,Houston Rockets,112,San Antonio Spurs,106,Box Score,,,False,False,True
+246,2013-11-30,7:00 pm,Atlanta Hawks,101,Washington Wizards,108,Box Score,,,True,True,False
+247,2013-12-01,3:30 pm,Philadelphia 76ers,100,Detroit Pistons,115,Box Score,,,True,True,False
+248,2013-12-01,3:30 pm,Indiana Pacers,105,Los Angeles Clippers,100,Box Score,,,False,False,True
+249,2013-12-01,9:30 pm,Portland Trail Blazers,114,Los Angeles Lakers,108,Box Score,,,False,False,True
+250,2013-12-01,6:00 pm,Charlotte Bobcats,98,Miami Heat,99,Box Score,,,True,True,False
+251,2013-12-01,7:30 pm,New Orleans Pelicans,103,New York Knicks,99,Box Score,,,False,False,True
+252,2013-12-01,7:00 pm,Minnesota Timberwolves,103,Oklahoma City Thunder,113,Box Score,,,True,True,False
+253,2013-12-01,6:00 pm,Golden State Warriors,115,Sacramento Kings,113,Box Score,,,False,False,True
+254,2013-12-01,1:00 pm,Denver Nuggets,112,Toronto Raptors,98,Box Score,,,False,False,True
+255,2013-12-02,8:00 pm,New Orleans Pelicans,131,Chicago Bulls,128,Box Score,3OT,,False,False,True
+256,2013-12-02,10:00 pm,Indiana Pacers,102,Portland Trail Blazers,106,Box Score,,,True,True,False
+257,2013-12-02,8:30 pm,Atlanta Hawks,100,San Antonio Spurs,102,Box Score,,,True,True,False
+258,2013-12-02,9:00 pm,Houston Rockets,103,Utah Jazz,109,Box Score,,,True,True,False
+259,2013-12-02,7:00 pm,Orlando Magic,80,Washington Wizards,98,Box Score,,,True,True,False
+260,2013-12-03,7:30 pm,Milwaukee Bucks,100,Boston Celtics,108,Box Score,,,True,True,False
+261,2013-12-03,7:30 pm,Denver Nuggets,111,Brooklyn Nets,87,Box Score,,,False,False,True
+262,2013-12-03,8:30 pm,Charlotte Bobcats,82,Dallas Mavericks,89,Box Score,,,True,True,False
+263,2013-12-03,10:30 pm,Toronto Raptors,103,Golden State Warriors,112,Box Score,,,True,True,False
+264,2013-12-03,8:00 pm,Phoenix Suns,91,Memphis Grizzlies,110,Box Score,,,True,True,False
+265,2013-12-03,7:30 pm,Detroit Pistons,107,Miami Heat,97,Box Score,,,False,False,True
+266,2013-12-03,7:00 pm,Orlando Magic,125,Philadelphia 76ers,126,Box Score,2OT,,True,True,False
+267,2013-12-03,10:00 pm,Oklahoma City Thunder,97,Sacramento Kings,95,Box Score,,,False,False,True
+268,2013-12-04,7:30 pm,Los Angeles Clippers,97,Atlanta Hawks,107,Box Score,,,True,True,False
+269,2013-12-04,7:00 pm,Denver Nuggets,88,Cleveland Cavaliers,98,Box Score,,,True,True,False
+270,2013-12-04,8:00 pm,Phoenix Suns,97,Houston Rockets,88,Box Score,,,False,False,True
+271,2013-12-04,8:00 pm,Detroit Pistons,105,Milwaukee Bucks,98,Box Score,,,False,False,True
+272,2013-12-04,8:00 pm,Dallas Mavericks,100,New Orleans Pelicans,97,Box Score,,,False,False,True
+273,2013-12-04,10:00 pm,Oklahoma City Thunder,104,Portland Trail Blazers,111,Box Score,,,True,True,False
+274,2013-12-04,9:00 pm,Indiana Pacers,95,Utah Jazz,86,Box Score,,,False,False,True
+275,2013-12-05,7:00 pm,New York Knicks,113,Brooklyn Nets,83,Box Score,,,False,False,True
+276,2013-12-05,9:30 pm,Miami Heat,87,Chicago Bulls,107,Box Score,,,True,True,False
+277,2013-12-05,8:00 pm,Los Angeles Clippers,101,Memphis Grizzlies,81,Box Score,,,False,False,True
+278,2013-12-06,7:30 pm,Cleveland Cavaliers,89,Atlanta Hawks,108,Box Score,,,True,True,False
+279,2013-12-06,7:30 pm,Denver Nuggets,98,Boston Celtics,106,Box Score,,,True,True,False
+280,2013-12-06,7:00 pm,Philadelphia 76ers,88,Charlotte Bobcats,105,Box Score,,,True,True,False
+281,2013-12-06,8:00 pm,Golden State Warriors,83,Houston Rockets,105,Box Score,,,True,True,False
+282,2013-12-06,8:00 pm,Oklahoma City Thunder,109,New Orleans Pelicans,95,Box Score,,,False,False,True
+283,2013-12-06,7:30 pm,Orlando Magic,83,New York Knicks,121,Box Score,,,True,True,False
+284,2013-12-06,9:00 pm,Toronto Raptors,97,Phoenix Suns,106,Box Score,,,True,True,False
+285,2013-12-06,10:00 pm,Utah Jazz,98,Portland Trail Blazers,130,Box Score,,,True,True,False
+286,2013-12-06,10:00 pm,Los Angeles Lakers,106,Sacramento Kings,100,Box Score,,,False,False,True
+287,2013-12-06,7:00 pm,Milwaukee Bucks,109,Washington Wizards,105,Box Score,OT,,False,False,True
+288,2013-12-07,8:00 pm,Detroit Pistons,92,Chicago Bulls,75,Box Score,,,False,False,True
+289,2013-12-07,7:30 pm,Los Angeles Clippers,82,Cleveland Cavaliers,88,Box Score,,,True,True,False
+290,2013-12-07,8:00 pm,Golden State Warriors,108,Memphis Grizzlies,82,Box Score,,,False,False,True
+291,2013-12-07,8:30 pm,Brooklyn Nets,90,Milwaukee Bucks,82,Box Score,,,False,False,True
+292,2013-12-07,8:00 pm,Miami Heat,103,Minnesota Timberwolves,82,Box Score,,,False,False,True
+293,2013-12-07,7:00 pm,Denver Nuggets,103,Philadelphia 76ers,92,Box Score,,,False,False,True
+294,2013-12-07,10:00 pm,Dallas Mavericks,108,Portland Trail Blazers,106,Box Score,,,False,False,True
+295,2013-12-07,8:30 pm,Indiana Pacers,111,San Antonio Spurs,100,Box Score,,,False,False,True
+296,2013-12-07,9:00 pm,Sacramento Kings,112,Utah Jazz,102,Box Score,OT,,False,False,True
+297,2013-12-08,6:00 pm,Miami Heat,110,Detroit Pistons,95,Box Score,,,False,False,True
+298,2013-12-08,7:00 pm,Orlando Magic,88,Houston Rockets,98,Box Score,,,True,True,False
+299,2013-12-08,9:30 pm,Toronto Raptors,106,Los Angeles Lakers,94,Box Score,,,False,False,True
+300,2013-12-08,12:00 am,Boston Celtics,114,New York Knicks,73,Box Score,,,False,False,True
+301,2013-12-08,7:00 pm,Indiana Pacers,94,Oklahoma City Thunder,118,Box Score,,,True,True,False
+302,2013-12-09,7:00 pm,Golden State Warriors,111,Charlotte Bobcats,115,Box Score,,,True,True,False
+303,2013-12-09,8:00 pm,Orlando Magic,85,Memphis Grizzlies,94,Box Score,,,True,True,False
+304,2013-12-09,7:00 pm,Los Angeles Clippers,94,Philadelphia 76ers,83,Box Score,,,False,False,True
+305,2013-12-09,10:00 pm,Dallas Mavericks,97,Sacramento Kings,112,Box Score,,,True,True,False
+306,2013-12-09,9:00 pm,Portland Trail Blazers,105,Utah Jazz,94,Box Score,,,False,False,True
+307,2013-12-09,7:00 pm,Denver Nuggets,75,Washington Wizards,74,Box Score,,,False,False,True
+308,2013-12-10,7:30 pm,Oklahoma City Thunder,101,Atlanta Hawks,92,Box Score,,,False,False,True
+309,2013-12-10,7:30 pm,Boston Celtics,96,Brooklyn Nets,104,Box Score,,,True,True,False
+310,2013-12-10,8:00 pm,Milwaukee Bucks,78,Chicago Bulls,74,Box Score,,,False,False,True
+311,2013-12-10,7:00 pm,New York Knicks,94,Cleveland Cavaliers,109,Box Score,,,True,True,False
+312,2013-12-10,7:30 pm,Minnesota Timberwolves,121,Detroit Pistons,94,Box Score,,,False,False,True
+313,2013-12-10,7:00 pm,Miami Heat,84,Indiana Pacers,90,Box Score,,,True,True,False
+314,2013-12-10,10:30 pm,Phoenix Suns,114,Los Angeles Lakers,108,Box Score,,,False,False,True
+315,2013-12-10,7:00 pm,San Antonio Spurs,116,Toronto Raptors,103,Box Score,,,False,False,True
+316,2013-12-11,7:30 pm,Los Angeles Clippers,96,Boston Celtics,88,Box Score,,,False,False,True
+317,2013-12-11,7:00 pm,Orlando Magic,92,Charlotte Bobcats,83,Box Score,,,False,False,True
+318,2013-12-11,10:30 pm,Dallas Mavericks,93,Golden State Warriors,95,Box Score,,,True,True,False
+319,2013-12-11,8:00 pm,Oklahoma City Thunder,116,Memphis Grizzlies,100,Box Score,,,False,False,True
+320,2013-12-11,8:00 pm,San Antonio Spurs,109,Milwaukee Bucks,77,Box Score,,,False,False,True
+321,2013-12-11,8:00 pm,Philadelphia 76ers,99,Minnesota Timberwolves,106,Box Score,,,True,True,False
+322,2013-12-11,8:00 pm,Detroit Pistons,106,New Orleans Pelicans,111,Box Score,OT,,True,True,False
+323,2013-12-11,8:00 pm,Chicago Bulls,78,New York Knicks,83,Box Score,,,True,True,False
+324,2013-12-11,10:00 pm,Utah Jazz,122,Sacramento Kings,101,Box Score,,,False,False,True
+325,2013-12-12,8:00 pm,Los Angeles Clippers,93,Brooklyn Nets,102,Box Score,,,True,True,False
+326,2013-12-12,10:30 pm,Houston Rockets,104,Portland Trail Blazers,111,Box Score,,,True,True,False
+327,2013-12-13,7:30 pm,Washington Wizards,99,Atlanta Hawks,101,Box Score,OT,,True,True,False
+328,2013-12-13,7:30 pm,New York Knicks,86,Boston Celtics,90,Box Score,,,True,True,False
+329,2013-12-13,9:00 pm,Utah Jazz,103,Denver Nuggets,93,Box Score,,,False,False,True
+330,2013-12-13,7:30 pm,Brooklyn Nets,99,Detroit Pistons,103,Box Score,,,True,True,False
+331,2013-12-13,10:30 pm,Houston Rockets,116,Golden State Warriors,112,Box Score,,,False,False,True
+332,2013-12-13,7:00 pm,Charlotte Bobcats,94,Indiana Pacers,99,Box Score,,,True,True,False
+333,2013-12-13,8:30 pm,Chicago Bulls,91,Milwaukee Bucks,90,Box Score,,,False,False,True
+334,2013-12-13,8:00 pm,Memphis Grizzlies,98,New Orleans Pelicans,104,Box Score,,,True,True,False
+335,2013-12-13,8:00 pm,Los Angeles Lakers,97,Oklahoma City Thunder,122,Box Score,,,True,True,False
+336,2013-12-13,7:00 pm,Cleveland Cavaliers,109,Orlando Magic,100,Box Score,,,False,False,True
+337,2013-12-13,9:00 pm,Sacramento Kings,107,Phoenix Suns,116,Box Score,,,True,True,False
+338,2013-12-13,8:30 pm,Minnesota Timberwolves,110,San Antonio Spurs,117,Box Score,,,True,True,False
+339,2013-12-13,7:00 pm,Philadelphia 76ers,100,Toronto Raptors,108,Box Score,,,True,True,False
+340,2013-12-14,7:00 pm,Los Angeles Lakers,88,Charlotte Bobcats,85,Box Score,,,False,False,True
+341,2013-12-14,8:00 pm,Toronto Raptors,99,Chicago Bulls,77,Box Score,,,False,False,True
+342,2013-12-14,8:30 pm,Milwaukee Bucks,93,Dallas Mavericks,106,Box Score,,,True,True,False
+343,2013-12-14,7:30 pm,Cleveland Cavaliers,107,Miami Heat,114,Box Score,,,True,True,False
+344,2013-12-14,7:30 pm,Atlanta Hawks,106,New York Knicks,111,Box Score,,,True,True,False
+345,2013-12-14,8:00 pm,Portland Trail Blazers,139,Philadelphia 76ers,105,Box Score,,,False,False,True
+346,2013-12-14,9:00 pm,San Antonio Spurs,100,Utah Jazz,84,Box Score,,,False,False,True
+347,2013-12-14,7:00 pm,Los Angeles Clippers,113,Washington Wizards,97,Box Score,,,False,False,True
+348,2013-12-15,8:00 pm,New Orleans Pelicans,93,Denver Nuggets,102,Box Score,,,True,True,False
+349,2013-12-15,6:00 pm,Portland Trail Blazers,111,Detroit Pistons,109,Box Score,OT,,False,False,True
+350,2013-12-15,6:00 pm,Minnesota Timberwolves,101,Memphis Grizzlies,93,Box Score,,,False,False,True
+351,2013-12-15,7:00 pm,Orlando Magic,98,Oklahoma City Thunder,101,Box Score,,,True,True,False
+352,2013-12-15,8:00 pm,Golden State Warriors,102,Phoenix Suns,106,Box Score,,,True,True,False
+353,2013-12-15,6:00 pm,Houston Rockets,91,Sacramento Kings,106,Box Score,,,True,True,False
+354,2013-12-16,7:30 pm,Los Angeles Lakers,100,Atlanta Hawks,114,Box Score,,,True,True,False
+355,2013-12-16,7:30 pm,Minnesota Timberwolves,97,Boston Celtics,101,Box Score,,,True,True,False
+356,2013-12-16,7:30 pm,Philadelphia 76ers,94,Brooklyn Nets,130,Box Score,,,True,True,False
+357,2013-12-16,8:00 pm,Orlando Magic,83,Chicago Bulls,82,Box Score,,,False,False,True
+358,2013-12-16,7:00 pm,Detroit Pistons,101,Indiana Pacers,96,Box Score,,,False,False,True
+359,2013-12-16,10:30 pm,San Antonio Spurs,92,Los Angeles Clippers,115,Box Score,,,True,True,False
+360,2013-12-16,7:30 pm,Utah Jazz,94,Miami Heat,117,Box Score,,,True,True,False
+361,2013-12-16,7:30 pm,Washington Wizards,102,New York Knicks,101,Box Score,,,False,False,True
+362,2013-12-17,7:00 pm,Sacramento Kings,87,Charlotte Bobcats,95,Box Score,,,True,True,False
+363,2013-12-17,7:00 pm,Portland Trail Blazers,119,Cleveland Cavaliers,116,Box Score,,,False,False,True
+364,2013-12-17,9:00 pm,Oklahoma City Thunder,105,Denver Nuggets,93,Box Score,,,False,False,True
+365,2013-12-17,10:30 pm,New Orleans Pelicans,93,Golden State Warriors,104,Box Score,,,True,True,False
+366,2013-12-17,8:00 pm,Los Angeles Lakers,96,Memphis Grizzlies,92,Box Score,,,False,False,True
+367,2013-12-18,7:30 pm,Sacramento Kings,107,Atlanta Hawks,124,Box Score,,,True,True,False
+368,2013-12-18,7:30 pm,Detroit Pistons,107,Boston Celtics,106,Box Score,,,False,False,True
+369,2013-12-18,7:30 pm,Washington Wizards,113,Brooklyn Nets,107,Box Score,,,False,False,True
+370,2013-12-18,8:30 pm,Memphis Grizzlies,91,Dallas Mavericks,105,Box Score,,,True,True,False
+371,2013-12-18,9:30 pm,Chicago Bulls,94,Houston Rockets,109,Box Score,,,True,True,False
+372,2013-12-18,10:30 pm,New Orleans Pelicans,95,Los Angeles Clippers,108,Box Score,,,True,True,False
+373,2013-12-18,7:00 pm,Indiana Pacers,94,Miami Heat,97,Box Score,,,True,True,False
+374,2013-12-18,8:00 pm,New York Knicks,107,Milwaukee Bucks,101,Box Score,2OT,,False,False,True
+375,2013-12-18,8:00 pm,Portland Trail Blazers,109,Minnesota Timberwolves,120,Box Score,,,True,True,False
+376,2013-12-18,7:00 pm,Utah Jazz,86,Orlando Magic,82,Box Score,,,False,False,True
+377,2013-12-18,9:00 pm,San Antonio Spurs,108,Phoenix Suns,101,Box Score,,,False,False,True
+378,2013-12-18,7:00 pm,Charlotte Bobcats,104,Toronto Raptors,102,Box Score,OT,,False,False,True
+379,2013-12-19,10:30 pm,San Antonio Spurs,104,Golden State Warriors,102,Box Score,,,False,False,True
+380,2013-12-19,8:00 pm,Chicago Bulls,95,Oklahoma City Thunder,107,Box Score,,,True,True,False
+381,2013-12-20,7:30 pm,Utah Jazz,85,Atlanta Hawks,118,Box Score,,,True,True,False
+382,2013-12-20,7:30 pm,Milwaukee Bucks,111,Cleveland Cavaliers,114,Box Score,OT,,True,True,False
+383,2013-12-20,8:30 pm,Toronto Raptors,109,Dallas Mavericks,108,Box Score,OT,,False,False,True
+384,2013-12-20,9:00 pm,Phoenix Suns,103,Denver Nuggets,99,Box Score,,,False,False,True
+385,2013-12-20,7:30 pm,Charlotte Bobcats,116,Detroit Pistons,106,Box Score,,,False,False,True
+386,2013-12-20,8:00 pm,Houston Rockets,81,Indiana Pacers,114,Box Score,,,True,True,False
+387,2013-12-20,10:30 pm,Minnesota Timberwolves,91,Los Angeles Lakers,104,Box Score,,,True,True,False
+388,2013-12-20,7:30 pm,Sacramento Kings,103,Miami Heat,122,Box Score,,,True,True,False
+389,2013-12-20,7:00 pm,Brooklyn Nets,120,Philadelphia 76ers,121,Box Score,OT,,True,True,False
+390,2013-12-21,1:00 pm,Washington Wizards,106,Boston Celtics,99,Box Score,,,False,False,True
+391,2013-12-21,7:30 pm,Utah Jazz,88,Charlotte Bobcats,85,Box Score,,,False,False,True
+392,2013-12-21,8:00 pm,Cleveland Cavaliers,84,Chicago Bulls,100,Box Score,,,True,True,False
+393,2013-12-21,7:30 pm,Houston Rockets,114,Detroit Pistons,97,Box Score,,,False,False,True
+394,2013-12-21,10:30 pm,Los Angeles Lakers,83,Golden State Warriors,102,Box Score,,,True,True,False
+395,2013-12-21,10:30 pm,Denver Nuggets,91,Los Angeles Clippers,112,Box Score,,,True,True,False
+396,2013-12-21,8:30 pm,Philadelphia 76ers,106,Milwaukee Bucks,116,Box Score,,,True,True,False
+397,2013-12-21,12:00 am,Memphis Grizzlies,95,New York Knicks,87,Box Score,,,False,False,True
+398,2013-12-21,7:00 pm,Sacramento Kings,105,Orlando Magic,100,Box Score,,,False,False,True
+399,2013-12-21,9:00 pm,Dallas Mavericks,108,Phoenix Suns,123,Box Score,,,True,True,False
+400,2013-12-21,10:00 pm,New Orleans Pelicans,107,Portland Trail Blazers,110,Box Score,,,True,True,False
+401,2013-12-21,8:30 pm,Oklahoma City Thunder,113,San Antonio Spurs,100,Box Score,,,False,False,True
+402,2013-12-22,6:00 pm,Boston Celtics,79,Indiana Pacers,106,Box Score,,,True,True,False
+403,2013-12-22,9:30 pm,Minnesota Timberwolves,116,Los Angeles Clippers,120,Box Score,OT,,True,True,False
+404,2013-12-22,7:00 pm,Toronto Raptors,104,Oklahoma City Thunder,98,Box Score,,,False,False,True
+405,2013-12-23,7:30 pm,Indiana Pacers,103,Brooklyn Nets,86,Box Score,,,False,False,True
+406,2013-12-23,7:00 pm,Milwaukee Bucks,110,Charlotte Bobcats,111,Box Score,OT,,True,True,False
+407,2013-12-23,7:00 pm,Detroit Pistons,115,Cleveland Cavaliers,92,Box Score,,,False,False,True
+408,2013-12-23,9:00 pm,Golden State Warriors,89,Denver Nuggets,81,Box Score,,,False,False,True
+409,2013-12-23,8:00 pm,Dallas Mavericks,111,Houston Rockets,104,Box Score,,,False,False,True
+410,2013-12-23,8:00 pm,Utah Jazz,94,Memphis Grizzlies,104,Box Score,,,True,True,False
+411,2013-12-23,7:30 pm,Atlanta Hawks,119,Miami Heat,121,Box Score,OT,,True,True,False
+412,2013-12-23,7:00 pm,New York Knicks,103,Orlando Magic,98,Box Score,,,False,False,True
+413,2013-12-23,9:00 pm,Los Angeles Lakers,90,Phoenix Suns,117,Box Score,,,True,True,False
+414,2013-12-23,10:00 pm,New Orleans Pelicans,113,Sacramento Kings,100,Box Score,,,False,False,True
+415,2013-12-23,8:30 pm,Toronto Raptors,99,San Antonio Spurs,112,Box Score,,,True,True,False
+416,2013-12-25,12:00 am,Chicago Bulls,95,Brooklyn Nets,78,Box Score,,,False,False,True
+417,2013-12-25,10:30 pm,Los Angeles Clippers,103,Golden State Warriors,105,Box Score,,,True,True,False
+418,2013-12-25,5:00 pm,Miami Heat,101,Los Angeles Lakers,95,Box Score,,,False,False,True
+419,2013-12-25,2:30 pm,Oklahoma City Thunder,123,New York Knicks,94,Box Score,,,False,False,True
+420,2013-12-25,8:00 pm,Houston Rockets,111,San Antonio Spurs,98,Box Score,,,False,False,True
+421,2013-12-26,7:00 pm,Atlanta Hawks,127,Cleveland Cavaliers,125,Box Score,2OT,,False,False,True
+422,2013-12-26,8:30 pm,San Antonio Spurs,116,Dallas Mavericks,107,Box Score,,,False,False,True
+423,2013-12-26,8:00 pm,Memphis Grizzlies,92,Houston Rockets,100,Box Score,,,True,True,False
+424,2013-12-26,10:30 pm,Los Angeles Clippers,112,Portland Trail Blazers,116,Box Score,OT,,True,True,False
+425,2013-12-27,7:30 pm,Milwaukee Bucks,93,Brooklyn Nets,104,Box Score,,,True,True,False
+426,2013-12-27,7:00 pm,Oklahoma City Thunder,89,Charlotte Bobcats,85,Box Score,,,False,False,True
+427,2013-12-27,10:30 pm,Phoenix Suns,86,Golden State Warriors,115,Box Score,,,True,True,False
+428,2013-12-27,8:00 pm,Washington Wizards,98,Minnesota Timberwolves,120,Box Score,,,True,True,False
+429,2013-12-27,8:00 pm,Denver Nuggets,89,New Orleans Pelicans,105,Box Score,,,True,True,False
+430,2013-12-27,7:30 pm,Toronto Raptors,95,New York Knicks,83,Box Score,,,False,False,True
+431,2013-12-27,7:00 pm,Detroit Pistons,92,Orlando Magic,109,Box Score,,,True,True,False
+432,2013-12-27,10:00 pm,Miami Heat,103,Sacramento Kings,108,Box Score,OT,,True,True,False
+433,2013-12-27,9:00 pm,Los Angeles Lakers,103,Utah Jazz,105,Box Score,,,True,True,False
+434,2013-12-28,7:30 pm,Charlotte Bobcats,116,Atlanta Hawks,118,Box Score,OT,,True,True,False
+435,2013-12-28,1:00 pm,Cleveland Cavaliers,100,Boston Celtics,103,Box Score,,,True,True,False
+436,2013-12-28,8:00 pm,Dallas Mavericks,105,Chicago Bulls,83,Box Score,,,False,False,True
+437,2013-12-28,8:00 pm,New Orleans Pelicans,98,Houston Rockets,107,Box Score,,,True,True,False
+438,2013-12-28,7:00 pm,Brooklyn Nets,91,Indiana Pacers,105,Box Score,,,True,True,False
+439,2013-12-28,10:30 pm,Utah Jazz,90,Los Angeles Clippers,98,Box Score,,,True,True,False
+440,2013-12-28,8:00 pm,Denver Nuggets,99,Memphis Grizzlies,120,Box Score,,,True,True,False
+441,2013-12-28,8:30 pm,Minnesota Timberwolves,117,Milwaukee Bucks,95,Box Score,,,False,False,True
+442,2013-12-28,9:00 pm,Philadelphia 76ers,101,Phoenix Suns,115,Box Score,,,True,True,False
+443,2013-12-28,10:00 pm,Miami Heat,108,Portland Trail Blazers,107,Box Score,,,False,False,True
+444,2013-12-28,7:00 pm,New York Knicks,100,Toronto Raptors,115,Box Score,,,True,True,False
+445,2013-12-28,7:00 pm,Detroit Pistons,82,Washington Wizards,106,Box Score,,,True,True,False
+446,2013-12-29,6:00 pm,Golden State Warriors,108,Cleveland Cavaliers,104,Box Score,OT,,False,False,True
+447,2013-12-29,9:30 pm,Philadelphia 76ers,111,Los Angeles Lakers,104,Box Score,,,False,False,True
+448,2013-12-29,7:00 pm,Houston Rockets,86,Oklahoma City Thunder,117,Box Score,,,True,True,False
+449,2013-12-29,6:00 pm,Atlanta Hawks,102,Orlando Magic,109,Box Score,,,True,True,False
+450,2013-12-29,7:00 pm,Sacramento Kings,104,San Antonio Spurs,112,Box Score,,,True,True,False
+451,2013-12-30,9:00 pm,Miami Heat,97,Denver Nuggets,94,Box Score,,,False,False,True
+452,2013-12-30,7:30 pm,Washington Wizards,106,Detroit Pistons,99,Box Score,,,False,False,True
+453,2013-12-30,10:30 pm,Phoenix Suns,107,Los Angeles Clippers,88,Box Score,,,False,False,True
+454,2013-12-30,8:00 pm,Chicago Bulls,95,Memphis Grizzlies,91,Box Score,,,False,False,True
+455,2013-12-30,8:00 pm,Dallas Mavericks,100,Minnesota Timberwolves,98,Box Score,,,False,False,True
+456,2013-12-30,8:00 pm,Portland Trail Blazers,108,New Orleans Pelicans,110,Box Score,,,True,True,False
+457,2013-12-30,9:00 pm,Charlotte Bobcats,80,Utah Jazz,83,Box Score,,,True,True,False
+458,2013-12-31,1:00 pm,Atlanta Hawks,92,Boston Celtics,91,Box Score,,,False,False,True
+459,2013-12-31,8:00 pm,Toronto Raptors,85,Chicago Bulls,79,Box Score,,,False,False,True
+460,2013-12-31,7:00 pm,Sacramento Kings,110,Houston Rockets,106,Box Score,,,False,False,True
+461,2013-12-31,3:00 pm,Cleveland Cavaliers,76,Indiana Pacers,91,Box Score,,,True,True,False
+462,2013-12-31,10:30 pm,Milwaukee Bucks,94,Los Angeles Lakers,79,Box Score,,,False,False,True
+463,2013-12-31,8:00 pm,Portland Trail Blazers,98,Oklahoma City Thunder,94,Box Score,,,False,False,True
+464,2013-12-31,5:00 pm,Golden State Warriors,94,Orlando Magic,81,Box Score,,,False,False,True
+465,2013-12-31,7:00 pm,Brooklyn Nets,92,San Antonio Spurs,113,Box Score,,,True,True,False
+466,2014-01-01,9:00 pm,Philadelphia 76ers,114,Denver Nuggets,102,Box Score,,,False,False,True
+467,2014-01-01,9:30 pm,Charlotte Bobcats,85,Los Angeles Clippers,112,Box Score,,,True,True,False
+468,2014-01-01,8:00 pm,New Orleans Pelicans,112,Minnesota Timberwolves,124,Box Score,,,True,True,False
+469,2014-01-01,7:00 pm,Indiana Pacers,82,Toronto Raptors,95,Box Score,,,True,True,False
+470,2014-01-01,6:00 pm,Dallas Mavericks,87,Washington Wizards,78,Box Score,,,False,False,True
+471,2014-01-02,8:00 pm,Boston Celtics,82,Chicago Bulls,94,Box Score,,,True,True,False
+472,2014-01-02,7:00 pm,Orlando Magic,81,Cleveland Cavaliers,87,Box Score,OT,,True,True,False
+473,2014-01-02,7:30 pm,Golden State Warriors,123,Miami Heat,114,Box Score,,,False,False,True
+474,2014-01-02,8:00 pm,Brooklyn Nets,95,Oklahoma City Thunder,93,Box Score,,,False,False,True
+475,2014-01-02,9:00 pm,Memphis Grizzlies,99,Phoenix Suns,91,Box Score,,,False,False,True
+476,2014-01-02,10:00 pm,Charlotte Bobcats,104,Portland Trail Blazers,134,Box Score,,,True,True,False
+477,2014-01-02,10:00 pm,Philadelphia 76ers,113,Sacramento Kings,104,Box Score,,,False,False,True
+478,2014-01-02,8:30 pm,New York Knicks,105,San Antonio Spurs,101,Box Score,,,False,False,True
+479,2014-01-02,9:00 pm,Milwaukee Bucks,87,Utah Jazz,96,Box Score,,,True,True,False
+480,2014-01-03,7:30 pm,Golden State Warriors,101,Atlanta Hawks,100,Box Score,,,False,False,True
+481,2014-01-03,7:30 pm,New Orleans Pelicans,95,Boston Celtics,92,Box Score,,,False,False,True
+482,2014-01-03,8:30 pm,Los Angeles Clippers,119,Dallas Mavericks,112,Box Score,,,False,False,True
+483,2014-01-03,9:00 pm,Memphis Grizzlies,108,Denver Nuggets,111,Box Score,,,True,True,False
+484,2014-01-03,8:00 pm,New York Knicks,100,Houston Rockets,102,Box Score,,,True,True,False
+485,2014-01-03,10:30 pm,Utah Jazz,99,Los Angeles Lakers,110,Box Score,,,True,True,False
+486,2014-01-03,7:00 pm,Toronto Raptors,101,Washington Wizards,88,Box Score,,,False,False,True
+487,2014-01-04,7:30 pm,Cleveland Cavaliers,82,Brooklyn Nets,89,Box Score,,,True,True,False
+488,2014-01-04,8:00 pm,Atlanta Hawks,84,Chicago Bulls,91,Box Score,,,True,True,False
+489,2014-01-04,7:00 pm,New Orleans Pelicans,82,Indiana Pacers,99,Box Score,,,True,True,False
+490,2014-01-04,8:00 pm,Oklahoma City Thunder,115,Minnesota Timberwolves,111,Box Score,,,False,False,True
+491,2014-01-04,7:00 pm,Miami Heat,110,Orlando Magic,94,Box Score,,,False,False,True
+492,2014-01-04,9:00 pm,Milwaukee Bucks,100,Phoenix Suns,116,Box Score,,,True,True,False
+493,2014-01-04,10:00 pm,Philadelphia 76ers,101,Portland Trail Blazers,99,Box Score,,,False,False,True
+494,2014-01-04,10:00 pm,Charlotte Bobcats,113,Sacramento Kings,103,Box Score,,,False,False,True
+495,2014-01-04,8:30 pm,Los Angeles Clippers,92,San Antonio Spurs,116,Box Score,,,True,True,False
+496,2014-01-05,6:00 pm,Indiana Pacers,82,Cleveland Cavaliers,78,Box Score,,,False,False,True
+497,2014-01-05,7:30 pm,New York Knicks,92,Dallas Mavericks,80,Box Score,,,False,False,True
+498,2014-01-05,1:00 pm,Memphis Grizzlies,112,Detroit Pistons,84,Box Score,,,False,False,True
+499,2014-01-05,9:30 pm,Denver Nuggets,137,Los Angeles Lakers,115,Box Score,,,False,False,True
+500,2014-01-05,6:00 pm,Toronto Raptors,97,Miami Heat,102,Box Score,,,True,True,False
+501,2014-01-05,7:00 pm,Boston Celtics,96,Oklahoma City Thunder,119,Box Score,,,True,True,False
+502,2014-01-05,6:00 pm,Golden State Warriors,112,Washington Wizards,96,Box Score,,,False,False,True
+503,2014-01-06,7:30 pm,Atlanta Hawks,86,Brooklyn Nets,91,Box Score,,,True,True,False
+504,2014-01-06,10:30 pm,Orlando Magic,81,Los Angeles Clippers,101,Box Score,,,True,True,False
+505,2014-01-06,7:00 pm,Minnesota Timberwolves,126,Philadelphia 76ers,95,Box Score,,,False,False,True
+506,2014-01-07,7:00 pm,Washington Wizards,97,Charlotte Bobcats,83,Box Score,,,False,False,True
+507,2014-01-07,8:00 pm,Phoenix Suns,87,Chicago Bulls,92,Box Score,,,True,True,False
+508,2014-01-07,7:00 pm,Philadelphia 76ers,93,Cleveland Cavaliers,111,Box Score,,,True,True,False
+509,2014-01-07,8:30 pm,Los Angeles Lakers,97,Dallas Mavericks,110,Box Score,,,True,True,False
+510,2014-01-07,9:00 pm,Boston Celtics,98,Denver Nuggets,129,Box Score,,,True,True,False
+511,2014-01-07,7:00 pm,Toronto Raptors,79,Indiana Pacers,86,Box Score,,,True,True,False
+512,2014-01-07,8:00 pm,San Antonio Spurs,110,Memphis Grizzlies,108,Box Score,OT,,False,False,True
+513,2014-01-07,7:30 pm,New Orleans Pelicans,88,Miami Heat,107,Box Score,,,True,True,False
+514,2014-01-07,8:00 pm,Golden State Warriors,101,Milwaukee Bucks,80,Box Score,,,False,False,True
+515,2014-01-07,7:30 pm,Detroit Pistons,85,New York Knicks,89,Box Score,,,True,True,False
+516,2014-01-07,10:00 pm,Portland Trail Blazers,119,Sacramento Kings,123,Box Score,,,True,True,False
+517,2014-01-07,9:00 pm,Oklahoma City Thunder,101,Utah Jazz,112,Box Score,,,True,True,False
+518,2014-01-08,7:30 pm,Indiana Pacers,87,Atlanta Hawks,97,Box Score,,,True,True,False
+519,2014-01-08,7:30 pm,Golden State Warriors,98,Brooklyn Nets,102,Box Score,,,True,True,False
+520,2014-01-08,8:00 pm,Los Angeles Lakers,99,Houston Rockets,113,Box Score,,,True,True,False
+521,2014-01-08,10:30 pm,Boston Celtics,105,Los Angeles Clippers,111,Box Score,,,True,True,False
+522,2014-01-08,9:30 pm,Phoenix Suns,104,Minnesota Timberwolves,103,Box Score,,,False,False,True
+523,2014-01-08,8:00 pm,Washington Wizards,102,New Orleans Pelicans,96,Box Score,,,False,False,True
+524,2014-01-08,10:00 pm,Orlando Magic,94,Portland Trail Blazers,110,Box Score,,,True,True,False
+525,2014-01-08,7:00 pm,Dallas Mavericks,90,San Antonio Spurs,112,Box Score,,,True,True,False
+526,2014-01-08,7:00 pm,Detroit Pistons,91,Toronto Raptors,112,Box Score,,,True,True,False
+527,2014-01-09,10:30 pm,Oklahoma City Thunder,88,Denver Nuggets,101,Box Score,,,True,True,False
+528,2014-01-09,8:00 pm,Miami Heat,92,New York Knicks,102,Box Score,,,True,True,False
+529,2014-01-10,7:30 pm,Houston Rockets,80,Atlanta Hawks,83,Box Score,,,True,True,False
+530,2014-01-10,8:00 pm,Miami Heat,95,Brooklyn Nets,104,Box Score,2OT,,True,True,False
+531,2014-01-10,10:30 pm,Boston Celtics,97,Golden State Warriors,99,Box Score,,,True,True,False
+532,2014-01-10,7:00 pm,Washington Wizards,66,Indiana Pacers,93,Box Score,,,True,True,False
+533,2014-01-10,10:30 pm,Los Angeles Lakers,87,Los Angeles Clippers,123,Box Score,,,True,True,False
+534,2014-01-10,8:00 pm,Phoenix Suns,99,Memphis Grizzlies,104,Box Score,,,True,True,False
+535,2014-01-10,8:30 pm,Chicago Bulls,81,Milwaukee Bucks,72,Box Score,,,False,False,True
+536,2014-01-10,8:00 pm,Charlotte Bobcats,92,Minnesota Timberwolves,119,Box Score,,,True,True,False
+537,2014-01-10,8:00 pm,Dallas Mavericks,107,New Orleans Pelicans,90,Box Score,,,False,False,True
+538,2014-01-10,7:00 pm,Detroit Pistons,114,Philadelphia 76ers,104,Box Score,,,False,False,True
+539,2014-01-10,10:00 pm,Orlando Magic,83,Sacramento Kings,103,Box Score,,,True,True,False
+540,2014-01-10,9:00 pm,Cleveland Cavaliers,113,Utah Jazz,102,Box Score,,,False,False,True
+541,2014-01-11,8:00 pm,Charlotte Bobcats,97,Chicago Bulls,103,Box Score,,,True,True,False
+542,2014-01-11,8:30 pm,New Orleans Pelicans,107,Dallas Mavericks,110,Box Score,,,True,True,False
+543,2014-01-11,9:00 pm,Orlando Magic,94,Denver Nuggets,120,Box Score,,,True,True,False
+544,2014-01-11,7:30 pm,Phoenix Suns,108,Detroit Pistons,110,Box Score,,,True,True,False
+545,2014-01-11,8:00 pm,Milwaukee Bucks,85,Oklahoma City Thunder,101,Box Score,,,True,True,False
+546,2014-01-11,7:30 pm,New York Knicks,102,Philadelphia 76ers,92,Box Score,,,False,False,True
+547,2014-01-11,10:00 pm,Boston Celtics,104,Portland Trail Blazers,112,Box Score,,,True,True,False
+548,2014-01-11,7:00 pm,Brooklyn Nets,80,Toronto Raptors,96,Box Score,,,True,True,False
+549,2014-01-11,7:00 pm,Houston Rockets,114,Washington Wizards,107,Box Score,,,False,False,True
+550,2014-01-12,6:00 pm,Atlanta Hawks,101,Memphis Grizzlies,108,Box Score,,,True,True,False
+551,2014-01-12,6:00 pm,Cleveland Cavaliers,80,Sacramento Kings,124,Box Score,,,True,True,False
+552,2014-01-12,7:00 pm,Minnesota Timberwolves,86,San Antonio Spurs,104,Box Score,,,True,True,False
+553,2014-01-13,7:30 pm,Houston Rockets,104,Boston Celtics,92,Box Score,,,False,False,True
+554,2014-01-13,8:00 pm,Washington Wizards,102,Chicago Bulls,88,Box Score,,,False,False,True
+555,2014-01-13,8:30 pm,Orlando Magic,88,Dallas Mavericks,107,Box Score,,,True,True,False
+556,2014-01-13,8:00 pm,San Antonio Spurs,101,New Orleans Pelicans,95,Box Score,,,False,False,True
+557,2014-01-13,7:30 pm,Phoenix Suns,96,New York Knicks,98,Box Score,OT,,True,True,False
+558,2014-01-13,7:00 pm,Milwaukee Bucks,94,Toronto Raptors,116,Box Score,,,True,True,False
+559,2014-01-13,9:00 pm,Denver Nuggets,103,Utah Jazz,118,Box Score,,,True,True,False
+560,2014-01-14,7:00 pm,New York Knicks,98,Charlotte Bobcats,108,Box Score,,,True,True,False
+561,2014-01-14,7:00 pm,Sacramento Kings,92,Indiana Pacers,116,Box Score,,,True,True,False
+562,2014-01-14,10:30 pm,Cleveland Cavaliers,120,Los Angeles Lakers,118,Box Score,,,False,False,True
+563,2014-01-14,8:00 pm,Oklahoma City Thunder,87,Memphis Grizzlies,90,Box Score,,,True,True,False
+564,2014-01-15,7:30 pm,Toronto Raptors,83,Boston Celtics,88,Box Score,,,True,True,False
+565,2014-01-15,10:30 pm,Denver Nuggets,123,Golden State Warriors,116,Box Score,,,False,False,True
+566,2014-01-15,10:30 pm,Dallas Mavericks,127,Los Angeles Clippers,129,Box Score,,,True,True,False
+567,2014-01-15,8:00 pm,Memphis Grizzlies,82,Milwaukee Bucks,77,Box Score,,,False,False,True
+568,2014-01-15,8:00 pm,Sacramento Kings,111,Minnesota Timberwolves,108,Box Score,,,False,False,True
+569,2014-01-15,8:00 pm,Houston Rockets,103,New Orleans Pelicans,100,Box Score,,,False,False,True
+570,2014-01-15,7:00 pm,Chicago Bulls,128,Orlando Magic,125,Box Score,3OT,,False,False,True
+571,2014-01-15,7:00 pm,Charlotte Bobcats,92,Philadelphia 76ers,95,Box Score,,,True,True,False
+572,2014-01-15,9:00 pm,Los Angeles Lakers,114,Phoenix Suns,121,Box Score,,,True,True,False
+573,2014-01-15,10:00 pm,Cleveland Cavaliers,96,Portland Trail Blazers,108,Box Score,,,True,True,False
+574,2014-01-15,8:00 pm,Utah Jazz,105,San Antonio Spurs,109,Box Score,,,True,True,False
+575,2014-01-15,7:00 pm,Miami Heat,97,Washington Wizards,114,Box Score,,,True,True,False
+576,2014-01-16,3:00 pm,Brooklyn Nets,127,Atlanta Hawks,110,Box Score,,at London England,False,False,True
+577,2014-01-16,9:30 pm,Oklahoma City Thunder,104,Houston Rockets,92,Box Score,,,False,False,True
+578,2014-01-16,7:00 pm,New York Knicks,89,Indiana Pacers,117,Box Score,,,True,True,False
+579,2014-01-17,7:30 pm,Los Angeles Lakers,107,Boston Celtics,104,Box Score,,,False,False,True
+580,2014-01-17,9:00 pm,Cleveland Cavaliers,117,Denver Nuggets,109,Box Score,,,False,False,True
+581,2014-01-17,7:30 pm,Utah Jazz,110,Detroit Pistons,89,Box Score,,,False,False,True
+582,2014-01-17,8:00 pm,Sacramento Kings,90,Memphis Grizzlies,91,Box Score,,,True,True,False
+583,2014-01-17,7:00 pm,Los Angeles Clippers,109,New York Knicks,95,Box Score,,,False,False,True
+584,2014-01-17,9:30 pm,Golden State Warriors,121,Oklahoma City Thunder,127,Box Score,,,True,True,False
+585,2014-01-17,7:00 pm,Charlotte Bobcats,111,Orlando Magic,101,Box Score,,,False,False,True
+586,2014-01-17,7:00 pm,Miami Heat,101,Philadelphia 76ers,86,Box Score,,,False,False,True
+587,2014-01-17,9:00 pm,Dallas Mavericks,110,Phoenix Suns,107,Box Score,,,False,False,True
+588,2014-01-17,8:30 pm,Portland Trail Blazers,109,San Antonio Spurs,100,Box Score,,,False,False,True
+589,2014-01-17,7:00 pm,Minnesota Timberwolves,89,Toronto Raptors,94,Box Score,,,True,True,False
+590,2014-01-17,7:00 pm,Chicago Bulls,93,Washington Wizards,96,Box Score,,,True,True,False
+591,2014-01-18,7:30 pm,Miami Heat,104,Charlotte Bobcats,96,Box Score,OT,,False,False,True
+592,2014-01-18,8:00 pm,Philadelphia 76ers,78,Chicago Bulls,103,Box Score,,,True,True,False
+593,2014-01-18,8:30 pm,Portland Trail Blazers,127,Dallas Mavericks,111,Box Score,,,False,False,True
+594,2014-01-18,8:00 pm,Milwaukee Bucks,104,Houston Rockets,114,Box Score,,,True,True,False
+595,2014-01-18,7:00 pm,Los Angeles Clippers,92,Indiana Pacers,106,Box Score,,,True,True,False
+596,2014-01-18,8:00 pm,Utah Jazz,72,Minnesota Timberwolves,98,Box Score,,,True,True,False
+597,2014-01-18,8:00 pm,Golden State Warriors,97,New Orleans Pelicans,87,Box Score,,,False,False,True
+598,2014-01-18,7:00 pm,Detroit Pistons,104,Washington Wizards,98,Box Score,,,False,False,True
+599,2014-01-19,7:00 pm,Sacramento Kings,93,Oklahoma City Thunder,108,Box Score,,,True,True,False
+600,2014-01-19,6:00 pm,Boston Celtics,91,Orlando Magic,93,Box Score,,,True,True,False
+601,2014-01-19,8:00 pm,Denver Nuggets,103,Phoenix Suns,117,Box Score,,,True,True,False
+602,2014-01-19,7:00 pm,Milwaukee Bucks,82,San Antonio Spurs,110,Box Score,,,True,True,False
+603,2014-01-19,1:00 pm,Los Angeles Lakers,112,Toronto Raptors,106,Box Score,,,False,False,True
+604,2014-01-20,5:30 pm,Miami Heat,114,Atlanta Hawks,121,Box Score,,,True,True,False
+605,2014-01-20,2:00 pm,Toronto Raptors,95,Charlotte Bobcats,100,Box Score,,,True,True,False
+606,2014-01-20,8:00 pm,Los Angeles Lakers,100,Chicago Bulls,102,Box Score,OT,,True,True,False
+607,2014-01-20,1:00 pm,Dallas Mavericks,102,Cleveland Cavaliers,97,Box Score,,,False,False,True
+608,2014-01-20,1:00 pm,Los Angeles Clippers,112,Detroit Pistons,103,Box Score,,,False,False,True
+609,2014-01-20,10:30 pm,Indiana Pacers,102,Golden State Warriors,94,Box Score,,,False,False,True
+610,2014-01-20,8:00 pm,Portland Trail Blazers,113,Houston Rockets,126,Box Score,,,True,True,False
+611,2014-01-20,5:00 pm,New Orleans Pelicans,95,Memphis Grizzlies,92,Box Score,,,False,False,True
+612,2014-01-20,2:30 pm,Brooklyn Nets,103,New York Knicks,80,Box Score,,,False,False,True
+613,2014-01-20,2:00 pm,Philadelphia 76ers,99,Washington Wizards,107,Box Score,,,True,True,False
+614,2014-01-21,7:30 pm,Orlando Magic,90,Brooklyn Nets,101,Box Score,,,True,True,False
+615,2014-01-21,7:30 pm,Boston Celtics,86,Miami Heat,93,Box Score,,,True,True,False
+616,2014-01-21,8:00 pm,Sacramento Kings,114,New Orleans Pelicans,97,Box Score,,,False,False,True
+617,2014-01-21,8:00 pm,Portland Trail Blazers,97,Oklahoma City Thunder,105,Box Score,,,True,True,False
+618,2014-01-21,9:00 pm,Minnesota Timberwolves,112,Utah Jazz,97,Box Score,,,False,False,True
+619,2014-01-22,7:00 pm,Los Angeles Clippers,91,Charlotte Bobcats,95,Box Score,,,True,True,False
+620,2014-01-22,7:00 pm,Chicago Bulls,98,Cleveland Cavaliers,87,Box Score,,,False,False,True
+621,2014-01-22,8:00 pm,Sacramento Kings,98,Houston Rockets,119,Box Score,,,True,True,False
+622,2014-01-22,8:00 pm,Detroit Pistons,101,Milwaukee Bucks,104,Box Score,,,True,True,False
+623,2014-01-22,7:30 pm,Philadelphia 76ers,110,New York Knicks,106,Box Score,,,False,False,True
+624,2014-01-22,7:00 pm,Atlanta Hawks,112,Orlando Magic,109,Box Score,,,False,False,True
+625,2014-01-22,10:30 pm,Indiana Pacers,100,Phoenix Suns,124,Box Score,,,True,True,False
+626,2014-01-22,8:00 pm,Oklahoma City Thunder,111,San Antonio Spurs,105,Box Score,,,False,False,True
+627,2014-01-22,7:00 pm,Dallas Mavericks,85,Toronto Raptors,93,Box Score,,,True,True,False
+628,2014-01-22,7:00 pm,Boston Celtics,113,Washington Wizards,111,Box Score,OT,,False,False,True
+629,2014-01-23,8:00 pm,Los Angeles Lakers,102,Miami Heat,109,Box Score,,,True,True,False
+630,2014-01-23,10:30 pm,Denver Nuggets,105,Portland Trail Blazers,110,Box Score,,,True,True,False
+631,2014-01-24,7:30 pm,San Antonio Spurs,105,Atlanta Hawks,79,Box Score,,,False,False,True
+632,2014-01-24,7:30 pm,Oklahoma City Thunder,101,Boston Celtics,83,Box Score,,,False,False,True
+633,2014-01-24,7:30 pm,Dallas Mavericks,106,Brooklyn Nets,107,Box Score,,,True,True,False
+634,2014-01-24,8:00 pm,Los Angeles Clippers,112,Chicago Bulls,95,Box Score,,,False,False,True
+635,2014-01-24,7:30 pm,Milwaukee Bucks,78,Cleveland Cavaliers,93,Box Score,,,True,True,False
+636,2014-01-24,7:30 pm,New Orleans Pelicans,103,Detroit Pistons,101,Box Score,,,False,False,True
+637,2014-01-24,10:30 pm,Minnesota Timberwolves,121,Golden State Warriors,120,Box Score,,,False,False,True
+638,2014-01-24,8:00 pm,Memphis Grizzlies,88,Houston Rockets,87,Box Score,,,False,False,True
+639,2014-01-24,7:30 pm,Charlotte Bobcats,96,New York Knicks,125,Box Score,,,True,True,False
+640,2014-01-24,7:00 pm,Los Angeles Lakers,105,Orlando Magic,114,Box Score,,,True,True,False
+641,2014-01-24,7:00 pm,Toronto Raptors,104,Philadelphia 76ers,95,Box Score,,,False,False,True
+642,2014-01-24,9:00 pm,Washington Wizards,101,Phoenix Suns,95,Box Score,,,False,False,True
+643,2014-01-24,10:00 pm,Indiana Pacers,116,Sacramento Kings,111,Box Score,OT,,False,False,True
+644,2014-01-25,7:00 pm,Chicago Bulls,89,Charlotte Bobcats,87,Box Score,,,False,False,True
+645,2014-01-25,9:00 pm,Indiana Pacers,96,Denver Nuggets,109,Box Score,,,True,True,False
+646,2014-01-25,8:00 pm,Houston Rockets,81,Memphis Grizzlies,99,Box Score,,,True,True,False
+647,2014-01-25,8:30 pm,Atlanta Hawks,112,Milwaukee Bucks,87,Box Score,,,False,False,True
+648,2014-01-25,7:30 pm,Oklahoma City Thunder,103,Philadelphia 76ers,91,Box Score,,,False,False,True
+649,2014-01-25,10:00 pm,Minnesota Timberwolves,104,Portland Trail Blazers,115,Box Score,,,True,True,False
+650,2014-01-25,7:00 pm,Los Angeles Clippers,126,Toronto Raptors,118,Box Score,,,False,False,True
+651,2014-01-25,9:00 pm,Washington Wizards,101,Utah Jazz,104,Box Score,,,True,True,False
+652,2014-01-26,6:30 pm,Brooklyn Nets,85,Boston Celtics,79,Box Score,,,False,False,True
+653,2014-01-26,6:00 pm,Phoenix Suns,99,Cleveland Cavaliers,90,Box Score,,,False,False,True
+654,2014-01-26,7:30 pm,Detroit Pistons,106,Dallas Mavericks,116,Box Score,,,True,True,False
+655,2014-01-26,9:00 pm,Portland Trail Blazers,88,Golden State Warriors,103,Box Score,,,True,True,False
+656,2014-01-26,1:00 pm,San Antonio Spurs,101,Miami Heat,113,Box Score,,,True,True,False
+657,2014-01-26,6:00 pm,Orlando Magic,92,New Orleans Pelicans,100,Box Score,,,True,True,False
+658,2014-01-26,3:30 pm,Los Angeles Lakers,103,New York Knicks,110,Box Score,,,True,True,False
+659,2014-01-26,9:00 pm,Denver Nuggets,125,Sacramento Kings,117,Box Score,,,False,False,True
+660,2014-01-27,7:30 pm,Toronto Raptors,104,Brooklyn Nets,103,Box Score,,,False,False,True
+661,2014-01-27,8:00 pm,Minnesota Timberwolves,95,Chicago Bulls,86,Box Score,,,False,False,True
+662,2014-01-27,8:00 pm,Los Angeles Clippers,114,Milwaukee Bucks,86,Box Score,,,False,False,True
+663,2014-01-27,8:00 pm,Atlanta Hawks,109,Oklahoma City Thunder,111,Box Score,,,True,True,False
+664,2014-01-27,7:00 pm,Phoenix Suns,124,Philadelphia 76ers,113,Box Score,,,False,False,True
+665,2014-01-27,9:00 pm,Sacramento Kings,99,Utah Jazz,106,Box Score,,,True,True,False
+666,2014-01-28,7:00 pm,New Orleans Pelicans,100,Cleveland Cavaliers,89,Box Score,,,False,False,True
+667,2014-01-28,7:30 pm,Orlando Magic,87,Detroit Pistons,103,Box Score,,,True,True,False
+668,2014-01-28,10:30 pm,Washington Wizards,88,Golden State Warriors,85,Box Score,,,False,False,True
+669,2014-01-28,8:00 pm,San Antonio Spurs,90,Houston Rockets,97,Box Score,,,True,True,False
+670,2014-01-28,10:30 pm,Indiana Pacers,104,Los Angeles Lakers,92,Box Score,,,False,False,True
+671,2014-01-28,7:30 pm,Boston Celtics,88,New York Knicks,114,Box Score,,,True,True,False
+672,2014-01-28,10:00 pm,Memphis Grizzlies,98,Portland Trail Blazers,81,Box Score,,,False,False,True
+673,2014-01-29,7:30 pm,Philadelphia 76ers,95,Boston Celtics,94,Box Score,,,False,False,True
+674,2014-01-29,8:30 pm,Houston Rockets,117,Dallas Mavericks,115,Box Score,,,False,False,True
+675,2014-01-29,9:00 pm,Charlotte Bobcats,101,Denver Nuggets,98,Box Score,,,False,False,True
+676,2014-01-29,10:30 pm,Washington Wizards,103,Los Angeles Clippers,110,Box Score,,,True,True,False
+677,2014-01-29,7:00 pm,Oklahoma City Thunder,112,Miami Heat,95,Box Score,,,False,False,True
+678,2014-01-29,8:00 pm,Phoenix Suns,126,Milwaukee Bucks,117,Box Score,,,False,False,True
+679,2014-01-29,8:00 pm,New Orleans Pelicans,77,Minnesota Timberwolves,88,Box Score,,,True,True,False
+680,2014-01-29,10:00 pm,Memphis Grizzlies,99,Sacramento Kings,89,Box Score,,,False,False,True
+681,2014-01-29,9:30 pm,Chicago Bulls,96,San Antonio Spurs,86,Box Score,,,False,False,True
+682,2014-01-29,7:00 pm,Orlando Magic,83,Toronto Raptors,98,Box Score,,,True,True,False
+683,2014-01-30,10:30 pm,Los Angeles Clippers,92,Golden State Warriors,111,Box Score,,,True,True,False
+684,2014-01-30,7:00 pm,Phoenix Suns,102,Indiana Pacers,94,Box Score,,,False,False,True
+685,2014-01-30,8:00 pm,Cleveland Cavaliers,86,New York Knicks,117,Box Score,,,True,True,False
+686,2014-01-31,8:00 pm,Oklahoma City Thunder,120,Brooklyn Nets,95,Box Score,,,False,False,True
+687,2014-01-31,8:30 pm,Sacramento Kings,103,Dallas Mavericks,107,Box Score,,,True,True,False
+688,2014-01-31,9:00 pm,Toronto Raptors,100,Denver Nuggets,90,Box Score,,,False,False,True
+689,2014-01-31,10:30 pm,Charlotte Bobcats,110,Los Angeles Lakers,100,Box Score,,,False,False,True
+690,2014-01-31,8:00 pm,Memphis Grizzlies,94,Minnesota Timberwolves,90,Box Score,,,False,False,True
+691,2014-01-31,7:00 pm,Milwaukee Bucks,102,Orlando Magic,113,Box Score,,,True,True,False
+692,2014-01-31,7:30 pm,Atlanta Hawks,125,Philadelphia 76ers,99,Box Score,,,False,False,True
+693,2014-01-31,10:30 pm,Golden State Warriors,95,Utah Jazz,90,Box Score,,,False,False,True
+694,2014-02-01,7:30 pm,Minnesota Timberwolves,113,Atlanta Hawks,120,Box Score,,,True,True,False
+695,2014-02-01,7:30 pm,Philadelphia 76ers,96,Detroit Pistons,113,Box Score,,,True,True,False
+696,2014-02-01,8:00 pm,Cleveland Cavaliers,92,Houston Rockets,106,Box Score,,,True,True,False
+697,2014-02-01,7:00 pm,Brooklyn Nets,96,Indiana Pacers,97,Box Score,,,True,True,False
+698,2014-02-01,10:30 pm,Utah Jazz,87,Los Angeles Clippers,102,Box Score,,,True,True,False
+699,2014-02-01,8:00 pm,Milwaukee Bucks,90,Memphis Grizzlies,99,Box Score,,,True,True,False
+700,2014-02-01,8:00 pm,Chicago Bulls,79,New Orleans Pelicans,88,Box Score,,,True,True,False
+701,2014-02-01,8:30 pm,Miami Heat,106,New York Knicks,91,Box Score,,,False,False,True
+702,2014-02-01,9:00 pm,Charlotte Bobcats,95,Phoenix Suns,105,Box Score,,,True,True,False
+703,2014-02-01,10:00 pm,Toronto Raptors,103,Portland Trail Blazers,106,Box Score,,,True,True,False
+704,2014-02-01,8:30 pm,Sacramento Kings,93,San Antonio Spurs,95,Box Score,,,True,True,False
+705,2014-02-01,7:00 pm,Oklahoma City Thunder,81,Washington Wizards,96,Box Score,,,True,True,False
+706,2014-02-02,1:00 pm,Orlando Magic,89,Boston Celtics,96,Box Score,,,True,True,False
+707,2014-02-03,7:30 pm,Philadelphia 76ers,102,Brooklyn Nets,108,Box Score,,,True,True,False
+708,2014-02-03,8:30 pm,Cleveland Cavaliers,107,Dallas Mavericks,124,Box Score,,,True,True,False
+709,2014-02-03,9:00 pm,Los Angeles Clippers,115,Denver Nuggets,116,Box Score,,,True,True,False
+710,2014-02-03,7:00 pm,Orlando Magic,79,Indiana Pacers,98,Box Score,,,True,True,False
+711,2014-02-03,7:30 pm,Detroit Pistons,96,Miami Heat,102,Box Score,,,True,True,False
+712,2014-02-03,8:00 pm,New York Knicks,98,Milwaukee Bucks,101,Box Score,,,True,True,False
+713,2014-02-03,8:00 pm,San Antonio Spurs,102,New Orleans Pelicans,95,Box Score,,,False,False,True
+714,2014-02-03,8:00 pm,Memphis Grizzlies,77,Oklahoma City Thunder,86,Box Score,,,True,True,False
+715,2014-02-03,10:00 pm,Chicago Bulls,70,Sacramento Kings,99,Box Score,,,True,True,False
+716,2014-02-03,9:00 pm,Toronto Raptors,94,Utah Jazz,79,Box Score,,,False,False,True
+717,2014-02-03,7:00 pm,Portland Trail Blazers,90,Washington Wizards,100,Box Score,,,True,True,False
+718,2014-02-04,7:30 pm,Indiana Pacers,89,Atlanta Hawks,85,Box Score,,,False,False,True
+719,2014-02-04,10:30 pm,Charlotte Bobcats,91,Golden State Warriors,75,Box Score,,,False,False,True
+720,2014-02-04,8:00 pm,Los Angeles Lakers,99,Minnesota Timberwolves,109,Box Score,,,True,True,False
+721,2014-02-04,9:00 pm,Chicago Bulls,101,Phoenix Suns,92,Box Score,,,False,False,True
+722,2014-02-05,7:00 pm,Los Angeles Lakers,119,Cleveland Cavaliers,108,Box Score,,,False,False,True
+723,2014-02-05,9:00 pm,Milwaukee Bucks,100,Denver Nuggets,110,Box Score,,,True,True,False
+724,2014-02-05,8:00 pm,Phoenix Suns,108,Houston Rockets,122,Box Score,,,True,True,False
+725,2014-02-05,10:30 pm,Miami Heat,116,Los Angeles Clippers,112,Box Score,,,False,False,True
+726,2014-02-05,8:00 pm,Dallas Mavericks,110,Memphis Grizzlies,96,Box Score,,,False,False,True
+727,2014-02-05,8:00 pm,Atlanta Hawks,100,New Orleans Pelicans,105,Box Score,,,True,True,False
+728,2014-02-05,8:00 pm,Portland Trail Blazers,94,New York Knicks,90,Box Score,,,False,False,True
+729,2014-02-05,8:00 pm,Minnesota Timberwolves,97,Oklahoma City Thunder,106,Box Score,,,True,True,False
+730,2014-02-05,7:00 pm,Detroit Pistons,98,Orlando Magic,112,Box Score,,,True,True,False
+731,2014-02-05,7:00 pm,Boston Celtics,114,Philadelphia 76ers,108,Box Score,,,False,False,True
+732,2014-02-05,10:00 pm,Toronto Raptors,101,Sacramento Kings,109,Box Score,,,True,True,False
+733,2014-02-05,7:00 pm,San Antonio Spurs,125,Washington Wizards,118,Box Score,2OT,,False,False,True
+734,2014-02-06,8:00 pm,San Antonio Spurs,89,Brooklyn Nets,103,Box Score,,,True,True,False
+735,2014-02-06,10:30 pm,Chicago Bulls,87,Golden State Warriors,102,Box Score,,,True,True,False
+736,2014-02-07,7:30 pm,Sacramento Kings,89,Boston Celtics,99,Box Score,,,True,True,False
+737,2014-02-07,8:30 pm,Utah Jazz,81,Dallas Mavericks,103,Box Score,,,True,True,False
+738,2014-02-07,7:30 pm,Brooklyn Nets,95,Detroit Pistons,111,Box Score,,,True,True,False
+739,2014-02-07,7:00 pm,Portland Trail Blazers,113,Indiana Pacers,118,Box Score,OT,,True,True,False
+740,2014-02-07,10:30 pm,Toronto Raptors,105,Los Angeles Clippers,118,Box Score,,,True,True,False
+741,2014-02-07,9:30 pm,Minnesota Timberwolves,91,New Orleans Pelicans,98,Box Score,,,True,True,False
+742,2014-02-07,7:30 pm,Denver Nuggets,90,New York Knicks,117,Box Score,,,True,True,False
+743,2014-02-07,7:00 pm,Oklahoma City Thunder,102,Orlando Magic,103,Box Score,,,True,True,False
+744,2014-02-07,7:00 pm,Los Angeles Lakers,112,Philadelphia 76ers,98,Box Score,,,False,False,True
+745,2014-02-07,7:00 pm,Cleveland Cavaliers,115,Washington Wizards,113,Box Score,,,False,False,True
+746,2014-02-08,7:30 pm,Memphis Grizzlies,79,Atlanta Hawks,76,Box Score,,,False,False,True
+747,2014-02-08,7:00 pm,San Antonio Spurs,104,Charlotte Bobcats,100,Box Score,,,False,False,True
+748,2014-02-08,7:30 pm,Denver Nuggets,109,Detroit Pistons,126,Box Score,,,True,True,False
+749,2014-02-08,8:30 pm,Houston Rockets,101,Milwaukee Bucks,95,Box Score,,,False,False,True
+750,2014-02-08,8:00 pm,Portland Trail Blazers,117,Minnesota Timberwolves,110,Box Score,,,False,False,True
+751,2014-02-08,9:00 pm,Golden State Warriors,109,Phoenix Suns,122,Box Score,,,True,True,False
+752,2014-02-08,9:00 pm,Miami Heat,89,Utah Jazz,94,Box Score,,,True,True,False
+753,2014-02-09,6:00 pm,Dallas Mavericks,102,Boston Celtics,91,Box Score,,,False,False,True
+754,2014-02-09,6:00 pm,New Orleans Pelicans,81,Brooklyn Nets,93,Box Score,,,True,True,False
+755,2014-02-09,6:00 pm,Memphis Grizzlies,83,Cleveland Cavaliers,91,Box Score,OT,,True,True,False
+756,2014-02-09,9:30 pm,Philadelphia 76ers,78,Los Angeles Clippers,123,Box Score,,,True,True,False
+757,2014-02-09,3:30 pm,Chicago Bulls,92,Los Angeles Lakers,86,Box Score,,,False,False,True
+758,2014-02-09,1:00 pm,New York Knicks,100,Oklahoma City Thunder,112,Box Score,,,True,True,False
+759,2014-02-09,6:00 pm,Indiana Pacers,92,Orlando Magic,93,Box Score,,,True,True,False
+760,2014-02-09,6:00 pm,Sacramento Kings,84,Washington Wizards,93,Box Score,,,True,True,False
+761,2014-02-10,7:30 pm,San Antonio Spurs,100,Detroit Pistons,109,Box Score,,,True,True,False
+762,2014-02-10,10:30 pm,Philadelphia 76ers,80,Golden State Warriors,123,Box Score,,,True,True,False
+763,2014-02-10,7:00 pm,Denver Nuggets,80,Indiana Pacers,119,Box Score,,,True,True,False
+764,2014-02-10,8:00 pm,Boston Celtics,102,Milwaukee Bucks,86,Box Score,,,False,False,True
+765,2014-02-10,8:00 pm,Houston Rockets,107,Minnesota Timberwolves,89,Box Score,,,False,False,True
+766,2014-02-10,7:00 pm,New Orleans Pelicans,101,Toronto Raptors,108,Box Score,,,True,True,False
+767,2014-02-11,7:00 pm,Dallas Mavericks,89,Charlotte Bobcats,114,Box Score,,,True,True,False
+768,2014-02-11,8:00 pm,Atlanta Hawks,85,Chicago Bulls,100,Box Score,,,True,True,False
+769,2014-02-11,7:00 pm,Sacramento Kings,99,Cleveland Cavaliers,109,Box Score,,,True,True,False
+770,2014-02-11,10:30 pm,Utah Jazz,96,Los Angeles Lakers,79,Box Score,,,False,False,True
+771,2014-02-11,8:00 pm,Washington Wizards,89,Memphis Grizzlies,92,Box Score,,,True,True,False
+772,2014-02-11,9:00 pm,Miami Heat,103,Phoenix Suns,97,Box Score,,,False,False,True
+773,2014-02-11,10:00 pm,Oklahoma City Thunder,98,Portland Trail Blazers,95,Box Score,,,False,False,True
+774,2014-02-12,7:30 pm,San Antonio Spurs,104,Boston Celtics,92,Box Score,,,False,False,True
+775,2014-02-12,7:30 pm,Charlotte Bobcats,89,Brooklyn Nets,105,Box Score,,,True,True,False
+776,2014-02-12,7:30 pm,Cleveland Cavaliers,93,Detroit Pistons,89,Box Score,,,False,False,True
+777,2014-02-12,10:30 pm,Miami Heat,111,Golden State Warriors,110,Box Score,,,False,False,True
+778,2014-02-12,8:00 pm,Washington Wizards,112,Houston Rockets,113,Box Score,,,True,True,False
+779,2014-02-12,7:00 pm,Dallas Mavericks,81,Indiana Pacers,73,Box Score,,,False,False,True
+780,2014-02-12,10:30 pm,Portland Trail Blazers,117,Los Angeles Clippers,122,Box Score,,,True,True,False
+781,2014-02-12,8:00 pm,New Orleans Pelicans,102,Milwaukee Bucks,98,Box Score,,,False,False,True
+782,2014-02-12,8:00 pm,Denver Nuggets,90,Minnesota Timberwolves,117,Box Score,,,True,True,False
+783,2014-02-12,7:30 pm,Sacramento Kings,106,New York Knicks,101,Box Score,OT,,False,False,True
+784,2014-02-12,7:00 pm,Memphis Grizzlies,86,Orlando Magic,81,Box Score,,,False,False,True
+785,2014-02-12,7:00 pm,Atlanta Hawks,83,Toronto Raptors,104,Box Score,,,True,True,False
+786,2014-02-12,9:00 pm,Philadelphia 76ers,100,Utah Jazz,105,Box Score,,,True,True,False
+787,2014-02-13,8:00 pm,Brooklyn Nets,76,Chicago Bulls,92,Box Score,,,True,True,False
+788,2014-02-13,10:30 pm,Oklahoma City Thunder,107,Los Angeles Lakers,103,Box Score,,,False,False,True
+789,2014-02-18,8:30 pm,Miami Heat,117,Dallas Mavericks,106,Box Score,,,False,False,True
+790,2014-02-18,9:00 pm,Phoenix Suns,112,Denver Nuggets,107,Box Score,OT,,False,False,True
+791,2014-02-18,7:30 pm,Charlotte Bobcats,108,Detroit Pistons,96,Box Score,,,False,False,True
+792,2014-02-18,7:00 pm,Atlanta Hawks,98,Indiana Pacers,108,Box Score,,,True,True,False
+793,2014-02-18,10:30 pm,San Antonio Spurs,113,Los Angeles Clippers,103,Box Score,,,False,False,True
+794,2014-02-18,8:00 pm,New York Knicks,93,Memphis Grizzlies,98,Box Score,,,True,True,False
+795,2014-02-18,8:00 pm,Orlando Magic,100,Milwaukee Bucks,104,Box Score,,,True,True,False
+796,2014-02-18,7:00 pm,Cleveland Cavaliers,114,Philadelphia 76ers,85,Box Score,,,False,False,True
+797,2014-02-18,7:00 pm,Toronto Raptors,103,Washington Wizards,93,Box Score,,,False,False,True
+798,2014-02-19,7:30 pm,Washington Wizards,114,Atlanta Hawks,97,Box Score,,,False,False,True
+799,2014-02-19,7:00 pm,Detroit Pistons,98,Charlotte Bobcats,116,Box Score,,,True,True,False
+800,2014-02-19,7:00 pm,Orlando Magic,93,Cleveland Cavaliers,101,Box Score,,,True,True,False
+801,2014-02-19,10:30 pm,Houston Rockets,134,Los Angeles Lakers,108,Box Score,,,False,False,True
+802,2014-02-19,8:00 pm,Indiana Pacers,91,Minnesota Timberwolves,104,Box Score,,,True,True,False
+803,2014-02-19,8:00 pm,New York Knicks,98,New Orleans Pelicans,91,Box Score,,,False,False,True
+804,2014-02-19,9:00 pm,Boston Celtics,94,Phoenix Suns,100,Box Score,,,True,True,False
+805,2014-02-19,10:00 pm,San Antonio Spurs,111,Portland Trail Blazers,109,Box Score,,,False,False,True
+806,2014-02-19,10:00 pm,Golden State Warriors,101,Sacramento Kings,92,Box Score,,,False,False,True
+807,2014-02-19,7:00 pm,Chicago Bulls,94,Toronto Raptors,92,Box Score,,,False,False,True
+808,2014-02-19,9:00 pm,Brooklyn Nets,105,Utah Jazz,99,Box Score,,,False,False,True
+809,2014-02-20,10:30 pm,Houston Rockets,99,Golden State Warriors,102,Box Score,OT,,True,True,False
+810,2014-02-20,8:00 pm,Denver Nuggets,101,Milwaukee Bucks,90,Box Score,,,False,False,True
+811,2014-02-20,8:00 pm,Miami Heat,103,Oklahoma City Thunder,81,Box Score,,,False,False,True
+812,2014-02-21,7:00 pm,New Orleans Pelicans,87,Charlotte Bobcats,90,Box Score,,,True,True,False
+813,2014-02-21,8:00 pm,Denver Nuggets,89,Chicago Bulls,117,Box Score,,,True,True,False
+814,2014-02-21,7:30 pm,Atlanta Hawks,107,Detroit Pistons,115,Box Score,,,True,True,False
+815,2014-02-21,10:30 pm,Boston Celtics,92,Los Angeles Lakers,101,Box Score,,,True,True,False
+816,2014-02-21,8:00 pm,Los Angeles Clippers,96,Memphis Grizzlies,102,Box Score,,,True,True,False
+817,2014-02-21,7:00 pm,New York Knicks,121,Orlando Magic,129,Box Score,2OT,,True,True,False
+818,2014-02-21,7:00 pm,Dallas Mavericks,124,Philadelphia 76ers,112,Box Score,,,False,False,True
+819,2014-02-21,9:00 pm,San Antonio Spurs,85,Phoenix Suns,106,Box Score,,,True,True,False
+820,2014-02-21,10:00 pm,Utah Jazz,94,Portland Trail Blazers,102,Box Score,,,True,True,False
+821,2014-02-21,7:00 pm,Cleveland Cavaliers,91,Toronto Raptors,98,Box Score,,,True,True,False
+822,2014-02-22,7:30 pm,New York Knicks,98,Atlanta Hawks,107,Box Score,,,True,True,False
+823,2014-02-22,7:00 pm,Memphis Grizzlies,89,Charlotte Bobcats,92,Box Score,,,True,True,False
+824,2014-02-22,7:30 pm,Dallas Mavericks,113,Detroit Pistons,102,Box Score,,,False,False,True
+825,2014-02-22,10:30 pm,Brooklyn Nets,86,Golden State Warriors,93,Box Score,,,True,True,False
+826,2014-02-22,8:30 pm,Indiana Pacers,110,Milwaukee Bucks,100,Box Score,,,False,False,True
+827,2014-02-22,10:00 pm,Boston Celtics,98,Sacramento Kings,105,Box Score,,,True,True,False
+828,2014-02-22,9:00 pm,Minnesota Timberwolves,121,Utah Jazz,104,Box Score,,,False,False,True
+829,2014-02-22,7:00 pm,New Orleans Pelicans,93,Washington Wizards,94,Box Score,,,True,True,False
+830,2014-02-23,6:00 pm,Washington Wizards,96,Cleveland Cavaliers,83,Box Score,,,False,False,True
+831,2014-02-23,8:00 pm,Sacramento Kings,109,Denver Nuggets,95,Box Score,,,False,False,True
+832,2014-02-23,9:00 pm,Brooklyn Nets,108,Los Angeles Lakers,102,Box Score,,,False,False,True
+833,2014-02-23,3:30 pm,Chicago Bulls,79,Miami Heat,93,Box Score,,,True,True,False
+834,2014-02-23,1:00 pm,Los Angeles Clippers,125,Oklahoma City Thunder,117,Box Score,,,False,False,True
+835,2014-02-23,9:00 pm,Houston Rockets,115,Phoenix Suns,112,Box Score,,,False,False,True
+836,2014-02-23,9:00 pm,Minnesota Timberwolves,97,Portland Trail Blazers,108,Box Score,,,True,True,False
+837,2014-02-23,6:00 pm,Orlando Magic,90,Toronto Raptors,105,Box Score,,,True,True,False
+838,2014-02-24,7:30 pm,Golden State Warriors,104,Detroit Pistons,96,Box Score,,,False,False,True
+839,2014-02-24,8:00 pm,Los Angeles Clippers,123,New Orleans Pelicans,110,Box Score,,,False,False,True
+840,2014-02-24,7:30 pm,Dallas Mavericks,110,New York Knicks,108,Box Score,,,False,False,True
+841,2014-02-24,7:00 pm,Milwaukee Bucks,130,Philadelphia 76ers,110,Box Score,,,False,False,True
+842,2014-02-24,9:00 pm,Boston Celtics,98,Utah Jazz,110,Box Score,,,True,True,False
+843,2014-02-25,7:30 pm,Chicago Bulls,107,Atlanta Hawks,103,Box Score,,,False,False,True
+844,2014-02-25,7:00 pm,Toronto Raptors,99,Cleveland Cavaliers,93,Box Score,,,False,False,True
+845,2014-02-25,9:00 pm,Portland Trail Blazers,100,Denver Nuggets,95,Box Score,,,False,False,True
+846,2014-02-25,7:00 pm,Los Angeles Lakers,98,Indiana Pacers,118,Box Score,,,True,True,False
+847,2014-02-25,9:00 pm,Minnesota Timberwolves,110,Phoenix Suns,101,Box Score,,,False,False,True
+848,2014-02-25,10:00 pm,Houston Rockets,129,Sacramento Kings,103,Box Score,,,False,False,True
+849,2014-02-25,7:00 pm,Orlando Magic,106,Washington Wizards,115,Box Score,,,True,True,False
+850,2014-02-26,7:30 pm,Atlanta Hawks,104,Boston Celtics,115,Box Score,,,True,True,False
+851,2014-02-26,8:00 pm,Golden State Warriors,83,Chicago Bulls,103,Box Score,,,True,True,False
+852,2014-02-26,8:00 pm,New Orleans Pelicans,89,Dallas Mavericks,108,Box Score,,,True,True,False
+853,2014-02-26,10:30 pm,Houston Rockets,93,Los Angeles Clippers,101,Box Score,,,True,True,False
+854,2014-02-26,8:00 pm,Los Angeles Lakers,103,Memphis Grizzlies,108,Box Score,,,True,True,False
+855,2014-02-26,8:00 pm,Cleveland Cavaliers,114,Oklahoma City Thunder,104,Box Score,,,False,False,True
+856,2014-02-26,7:00 pm,Orlando Magic,101,Philadelphia 76ers,90,Box Score,,,False,False,True
+857,2014-02-26,10:00 pm,Brooklyn Nets,80,Portland Trail Blazers,124,Box Score,,,True,True,False
+858,2014-02-26,8:30 pm,Detroit Pistons,110,San Antonio Spurs,120,Box Score,,,True,True,False
+859,2014-02-26,9:00 pm,Phoenix Suns,86,Utah Jazz,109,Box Score,,,True,True,False
+860,2014-02-27,10:30 pm,Brooklyn Nets,112,Denver Nuggets,89,Box Score,,,False,False,True
+861,2014-02-27,7:00 pm,Milwaukee Bucks,96,Indiana Pacers,101,Box Score,,,True,True,False
+862,2014-02-27,8:00 pm,New York Knicks,82,Miami Heat,108,Box Score,,,True,True,False
+863,2014-02-27,7:00 pm,Washington Wizards,134,Toronto Raptors,129,Box Score,3OT,,False,False,True
+864,2014-02-28,7:30 pm,Utah Jazz,79,Cleveland Cavaliers,99,Box Score,,,True,True,False
+865,2014-02-28,8:30 pm,Chicago Bulls,100,Dallas Mavericks,91,Box Score,,,False,False,True
+866,2014-02-28,10:30 pm,Sacramento Kings,122,Los Angeles Lakers,126,Box Score,,,True,True,False
+867,2014-02-28,8:00 pm,Golden State Warriors,126,New York Knicks,103,Box Score,,,False,False,True
+868,2014-02-28,8:00 pm,Memphis Grizzlies,107,Oklahoma City Thunder,113,Box Score,,,True,True,False
+869,2014-02-28,10:30 pm,New Orleans Pelicans,104,Phoenix Suns,116,Box Score,,,True,True,False
+870,2014-02-28,8:30 pm,Charlotte Bobcats,82,San Antonio Spurs,92,Box Score,,,True,True,False
+871,2014-03-01,8:00 pm,Indiana Pacers,102,Boston Celtics,97,Box Score,,,False,False,True
+872,2014-03-01,8:00 pm,Detroit Pistons,110,Houston Rockets,118,Box Score,,,True,True,False
+873,2014-03-01,10:30 pm,New Orleans Pelicans,76,Los Angeles Clippers,108,Box Score,,,True,True,False
+874,2014-03-01,9:00 pm,Cleveland Cavaliers,96,Memphis Grizzlies,110,Box Score,,,True,True,False
+875,2014-03-01,7:30 pm,Orlando Magic,98,Miami Heat,112,Box Score,,,True,True,False
+876,2014-03-01,8:30 pm,Brooklyn Nets,107,Milwaukee Bucks,98,Box Score,,,False,False,True
+877,2014-03-01,7:30 pm,Washington Wizards,122,Philadelphia 76ers,103,Box Score,,,False,False,True
+878,2014-03-01,10:00 pm,Denver Nuggets,96,Portland Trail Blazers,102,Box Score,,,True,True,False
+879,2014-03-01,10:00 pm,Minnesota Timberwolves,108,Sacramento Kings,97,Box Score,,,False,False,True
+880,2014-03-02,1:00 pm,New York Knicks,90,Chicago Bulls,109,Box Score,,,True,True,False
+881,2014-03-02,6:00 pm,Utah Jazz,91,Indiana Pacers,94,Box Score,,,True,True,False
+882,2014-03-02,7:00 pm,Charlotte Bobcats,99,Oklahoma City Thunder,116,Box Score,,,True,True,False
+883,2014-03-02,6:00 pm,Philadelphia 76ers,81,Orlando Magic,92,Box Score,,,True,True,False
+884,2014-03-02,8:00 pm,Atlanta Hawks,120,Phoenix Suns,129,Box Score,,,True,True,False
+885,2014-03-02,7:00 pm,Dallas Mavericks,106,San Antonio Spurs,112,Box Score,,,True,True,False
+886,2014-03-02,4:00 pm,Golden State Warriors,98,Toronto Raptors,104,Box Score,,,True,True,False
+887,2014-03-03,7:30 pm,Chicago Bulls,80,Brooklyn Nets,96,Box Score,,,True,True,False
+888,2014-03-03,9:00 pm,Minnesota Timberwolves,132,Denver Nuggets,128,Box Score,,,False,False,True
+889,2014-03-03,7:30 pm,New York Knicks,85,Detroit Pistons,96,Box Score,,,True,True,False
+890,2014-03-03,7:30 pm,Charlotte Bobcats,107,Miami Heat,124,Box Score,,,True,True,False
+891,2014-03-03,8:00 pm,Utah Jazz,88,Milwaukee Bucks,114,Box Score,,,True,True,False
+892,2014-03-03,10:00 pm,Los Angeles Lakers,107,Portland Trail Blazers,106,Box Score,,,False,False,True
+893,2014-03-03,10:00 pm,New Orleans Pelicans,89,Sacramento Kings,96,Box Score,,,True,True,False
+894,2014-03-03,7:00 pm,Memphis Grizzlies,110,Washington Wizards,104,Box Score,,,False,False,True
+895,2014-03-04,7:00 pm,San Antonio Spurs,122,Cleveland Cavaliers,101,Box Score,,,False,False,True
+896,2014-03-04,8:00 pm,Miami Heat,103,Houston Rockets,106,Box Score,,,True,True,False
+897,2014-03-04,7:00 pm,Golden State Warriors,98,Indiana Pacers,96,Box Score,,,False,False,True
+898,2014-03-04,10:30 pm,New Orleans Pelicans,132,Los Angeles Lakers,125,Box Score,,,False,False,True
+899,2014-03-04,8:00 pm,Philadelphia 76ers,92,Oklahoma City Thunder,125,Box Score,,,True,True,False
+900,2014-03-04,9:00 pm,Los Angeles Clippers,104,Phoenix Suns,96,Box Score,,,False,False,True
+901,2014-03-05,7:30 pm,Golden State Warriors,108,Boston Celtics,88,Box Score,,,False,False,True
+902,2014-03-05,7:30 pm,Memphis Grizzlies,94,Brooklyn Nets,103,Box Score,,,True,True,False
+903,2014-03-05,7:00 pm,Indiana Pacers,87,Charlotte Bobcats,109,Box Score,,,True,True,False
+904,2014-03-05,8:00 pm,Dallas Mavericks,110,Denver Nuggets,115,Box Score,,,True,True,False
+905,2014-03-05,7:30 pm,Chicago Bulls,105,Detroit Pistons,94,Box Score,,,False,False,True
+906,2014-03-05,8:00 pm,Sacramento Kings,116,Milwaukee Bucks,102,Box Score,,,False,False,True
+907,2014-03-05,8:00 pm,New York Knicks,118,Minnesota Timberwolves,106,Box Score,,,False,False,True
+908,2014-03-05,7:00 pm,Houston Rockets,101,Orlando Magic,89,Box Score,,,False,False,True
+909,2014-03-05,10:30 pm,Atlanta Hawks,78,Portland Trail Blazers,102,Box Score,,,True,True,False
+910,2014-03-05,7:00 pm,Utah Jazz,91,Washington Wizards,104,Box Score,,,True,True,False
+911,2014-03-06,10:30 pm,Los Angeles Clippers,142,Los Angeles Lakers,94,Box Score,,,False,False,True
+912,2014-03-06,9:00 pm,Oklahoma City Thunder,122,Phoenix Suns,128,Box Score,,,True,True,False
+913,2014-03-06,8:00 pm,Miami Heat,87,San Antonio Spurs,111,Box Score,,,True,True,False
+914,2014-03-07,7:30 pm,Brooklyn Nets,84,Boston Celtics,91,Box Score,,,True,True,False
+915,2014-03-07,7:00 pm,Cleveland Cavaliers,92,Charlotte Bobcats,101,Box Score,,,True,True,False
+916,2014-03-07,7:00 pm,Memphis Grizzlies,85,Chicago Bulls,77,Box Score,,,False,False,True
+917,2014-03-07,8:30 pm,Portland Trail Blazers,98,Dallas Mavericks,103,Box Score,,,True,True,False
+918,2014-03-07,9:00 pm,Los Angeles Lakers,126,Denver Nuggets,134,Box Score,,,True,True,False
+919,2014-03-07,10:30 pm,Atlanta Hawks,97,Golden State Warriors,111,Box Score,,,True,True,False
+920,2014-03-07,9:30 pm,Indiana Pacers,86,Houston Rockets,112,Box Score,,,True,True,False
+921,2014-03-07,8:00 pm,Detroit Pistons,101,Minnesota Timberwolves,114,Box Score,,,True,True,False
+922,2014-03-07,8:00 pm,Milwaukee Bucks,104,New Orleans Pelicans,112,Box Score,,,True,True,False
+923,2014-03-07,7:30 pm,Utah Jazz,81,New York Knicks,108,Box Score,,,True,True,False
+924,2014-03-07,7:00 pm,Sacramento Kings,87,Toronto Raptors,99,Box Score,,,True,True,False
+925,2014-03-08,7:30 pm,New York Knicks,107,Cleveland Cavaliers,97,Box Score,,,False,False,True
+926,2014-03-08,10:30 pm,Atlanta Hawks,108,Los Angeles Clippers,109,Box Score,,,True,True,False
+927,2014-03-08,8:00 pm,Charlotte Bobcats,89,Memphis Grizzlies,111,Box Score,,,True,True,False
+928,2014-03-08,9:00 pm,Washington Wizards,114,Milwaukee Bucks,107,Box Score,,,False,False,True
+929,2014-03-08,7:30 pm,Utah Jazz,104,Philadelphia 76ers,92,Box Score,,,False,False,True
+930,2014-03-08,8:30 pm,Orlando Magic,112,San Antonio Spurs,121,Box Score,,,True,True,False
+931,2014-03-09,6:00 pm,Detroit Pistons,111,Boston Celtics,118,Box Score,,,True,True,False
+932,2014-03-09,6:00 pm,Sacramento Kings,89,Brooklyn Nets,104,Box Score,,,True,True,False
+933,2014-03-09,1:00 pm,Miami Heat,88,Chicago Bulls,95,Box Score,OT,,True,True,False
+934,2014-03-09,7:30 pm,Indiana Pacers,94,Dallas Mavericks,105,Box Score,,,True,True,False
+935,2014-03-09,9:00 pm,Phoenix Suns,107,Golden State Warriors,113,Box Score,,,True,True,False
+936,2014-03-09,7:00 pm,Portland Trail Blazers,113,Houston Rockets,118,Box Score,OT,,True,True,False
+937,2014-03-09,3:30 pm,Oklahoma City Thunder,110,Los Angeles Lakers,114,Box Score,,,True,True,False
+938,2014-03-09,7:00 pm,Toronto Raptors,111,Minnesota Timberwolves,104,Box Score,,,False,False,True
+939,2014-03-09,6:00 pm,Denver Nuggets,107,New Orleans Pelicans,111,Box Score,OT,,True,True,False
+940,2014-03-10,7:30 pm,Toronto Raptors,97,Brooklyn Nets,101,Box Score,,,True,True,False
+941,2014-03-10,7:00 pm,Denver Nuggets,98,Charlotte Bobcats,105,Box Score,,,True,True,False
+942,2014-03-10,10:30 pm,Phoenix Suns,105,Los Angeles Clippers,112,Box Score,,,True,True,False
+943,2014-03-10,7:30 pm,Washington Wizards,90,Miami Heat,99,Box Score,,,True,True,False
+944,2014-03-10,8:00 pm,Orlando Magic,98,Milwaukee Bucks,105,Box Score,,,True,True,False
+945,2014-03-10,7:30 pm,Philadelphia 76ers,110,New York Knicks,123,Box Score,,,True,True,False
+946,2014-03-10,9:00 pm,Atlanta Hawks,112,Utah Jazz,110,Box Score,,,False,False,True
+947,2014-03-11,8:00 pm,San Antonio Spurs,104,Chicago Bulls,96,Box Score,,,False,False,True
+948,2014-03-11,7:30 pm,Sacramento Kings,89,Detroit Pistons,99,Box Score,,,True,True,False
+949,2014-03-11,10:30 pm,Dallas Mavericks,85,Golden State Warriors,108,Box Score,,,True,True,False
+950,2014-03-11,7:00 pm,Boston Celtics,83,Indiana Pacers,94,Box Score,,,True,True,False
+951,2014-03-11,8:00 pm,Portland Trail Blazers,99,Memphis Grizzlies,109,Box Score,,,True,True,False
+952,2014-03-11,8:00 pm,Milwaukee Bucks,101,Minnesota Timberwolves,112,Box Score,,,True,True,False
+953,2014-03-11,8:00 pm,Houston Rockets,98,Oklahoma City Thunder,106,Box Score,,,True,True,False
+954,2014-03-12,7:30 pm,New York Knicks,116,Boston Celtics,92,Box Score,,,False,False,True
+955,2014-03-12,10:30 pm,Golden State Warriors,98,Los Angeles Clippers,111,Box Score,,,True,True,False
+956,2014-03-12,7:00 pm,Brooklyn Nets,96,Miami Heat,95,Box Score,,,False,False,True
+957,2014-03-12,8:00 pm,Memphis Grizzlies,90,New Orleans Pelicans,88,Box Score,,,False,False,True
+958,2014-03-12,7:00 pm,Denver Nuggets,120,Orlando Magic,112,Box Score,,,False,False,True
+959,2014-03-12,7:00 pm,Sacramento Kings,115,Philadelphia 76ers,98,Box Score,,,False,False,True
+960,2014-03-12,10:00 pm,Cleveland Cavaliers,110,Phoenix Suns,101,Box Score,,,False,False,True
+961,2014-03-12,9:30 pm,Portland Trail Blazers,90,San Antonio Spurs,103,Box Score,,,True,True,False
+962,2014-03-12,7:00 pm,Detroit Pistons,87,Toronto Raptors,101,Box Score,,,True,True,False
+963,2014-03-12,9:00 pm,Dallas Mavericks,108,Utah Jazz,101,Box Score,,,False,False,True
+964,2014-03-12,7:00 pm,Charlotte Bobcats,98,Washington Wizards,85,Box Score,,,False,False,True
+965,2014-03-13,7:30 pm,Milwaukee Bucks,97,Atlanta Hawks,102,Box Score,,,True,True,False
+966,2014-03-13,7:00 pm,Houston Rockets,87,Chicago Bulls,111,Box Score,,,True,True,False
+967,2014-03-13,9:30 pm,Los Angeles Lakers,102,Oklahoma City Thunder,131,Box Score,,,True,True,False
+968,2014-03-14,7:30 pm,Phoenix Suns,87,Boston Celtics,80,Box Score,,,False,False,True
+969,2014-03-14,7:00 pm,Minnesota Timberwolves,93,Charlotte Bobcats,105,Box Score,,,True,True,False
+970,2014-03-14,10:30 pm,Cleveland Cavaliers,103,Golden State Warriors,94,Box Score,,,False,False,True
+971,2014-03-14,7:30 pm,Denver Nuggets,111,Miami Heat,107,Box Score,,,False,False,True
+972,2014-03-14,8:00 pm,Portland Trail Blazers,111,New Orleans Pelicans,103,Box Score,,,False,False,True
+973,2014-03-14,7:00 pm,Washington Wizards,105,Orlando Magic,101,Box Score,OT,,False,False,True
+974,2014-03-14,7:00 pm,Indiana Pacers,101,Philadelphia 76ers,94,Box Score,,,False,False,True
+975,2014-03-14,8:30 pm,Los Angeles Lakers,85,San Antonio Spurs,119,Box Score,,,True,True,False
+976,2014-03-14,7:00 pm,Memphis Grizzlies,86,Toronto Raptors,99,Box Score,,,True,True,False
+977,2014-03-14,9:00 pm,Los Angeles Clippers,96,Utah Jazz,87,Box Score,,,False,False,True
+978,2014-03-15,7:30 pm,Denver Nuggets,92,Atlanta Hawks,97,Box Score,,,True,True,False
+979,2014-03-15,8:00 pm,Sacramento Kings,87,Chicago Bulls,94,Box Score,,,True,True,False
+980,2014-03-15,7:30 pm,Indiana Pacers,112,Detroit Pistons,104,Box Score,OT,,False,False,True
+981,2014-03-15,12:00 am,Milwaukee Bucks,94,New York Knicks,115,Box Score,,,True,True,False
+982,2014-03-15,7:30 pm,Memphis Grizzlies,103,Philadelphia 76ers,77,Box Score,,,False,False,True
+983,2014-03-15,7:00 pm,Brooklyn Nets,94,Washington Wizards,101,Box Score,,,True,True,False
+984,2014-03-16,9:30 pm,Cleveland Cavaliers,80,Los Angeles Clippers,102,Box Score,,,True,True,False
+985,2014-03-16,3:30 pm,Houston Rockets,104,Miami Heat,113,Box Score,,,True,True,False
+986,2014-03-16,1:00 pm,Charlotte Bobcats,101,Milwaukee Bucks,92,Box Score,,,False,False,True
+987,2014-03-16,7:00 pm,Sacramento Kings,102,Minnesota Timberwolves,104,Box Score,,,True,True,False
+988,2014-03-16,6:00 pm,Boston Celtics,120,New Orleans Pelicans,121,Box Score,OT,,True,True,False
+989,2014-03-16,7:00 pm,Dallas Mavericks,109,Oklahoma City Thunder,86,Box Score,,,False,False,True
+990,2014-03-16,9:00 pm,Golden State Warriors,113,Portland Trail Blazers,112,Box Score,,,False,False,True
+991,2014-03-16,7:00 pm,Utah Jazz,104,San Antonio Spurs,122,Box Score,,,True,True,False
+992,2014-03-16,1:00 pm,Phoenix Suns,121,Toronto Raptors,113,Box Score,,,False,False,True
+993,2014-03-17,7:30 pm,Phoenix Suns,95,Brooklyn Nets,108,Box Score,,,True,True,False
+994,2014-03-17,7:00 pm,Atlanta Hawks,97,Charlotte Bobcats,83,Box Score,,,False,False,True
+995,2014-03-17,8:00 pm,Oklahoma City Thunder,97,Chicago Bulls,85,Box Score,,,False,False,True
+996,2014-03-17,8:30 pm,Boston Celtics,89,Dallas Mavericks,94,Box Score,,,True,True,False
+997,2014-03-17,10:30 pm,Los Angeles Clippers,100,Denver Nuggets,110,Box Score,,,True,True,False
+998,2014-03-17,8:00 pm,Utah Jazz,86,Houston Rockets,124,Box Score,,,True,True,False
+999,2014-03-17,7:00 pm,Philadelphia 76ers,90,Indiana Pacers,99,Box Score,,,True,True,False
+1000,2014-03-18,7:30 pm,Toronto Raptors,113,Atlanta Hawks,118,Box Score,OT,,True,True,False
+1001,2014-03-18,7:00 pm,Miami Heat,100,Cleveland Cavaliers,96,Box Score,,,False,False,True
+1002,2014-03-18,10:30 pm,Orlando Magic,89,Golden State Warriors,103,Box Score,,,True,True,False
+1003,2014-03-18,10:00 pm,Milwaukee Bucks,115,Portland Trail Blazers,120,Box Score,OT,,True,True,False
+1004,2014-03-18,10:00 pm,Washington Wizards,111,Sacramento Kings,117,Box Score,OT,,True,True,False
+1005,2014-03-19,7:30 pm,Miami Heat,96,Boston Celtics,101,Box Score,,,True,True,False
+1006,2014-03-19,7:30 pm,Charlotte Bobcats,99,Brooklyn Nets,104,Box Score,,,True,True,False
+1007,2014-03-19,8:30 pm,Minnesota Timberwolves,123,Dallas Mavericks,122,Box Score,OT,,False,False,True
+1008,2014-03-19,9:00 pm,Detroit Pistons,109,Denver Nuggets,118,Box Score,,,True,True,False
+1009,2014-03-19,10:30 pm,San Antonio Spurs,125,Los Angeles Lakers,109,Box Score,,,False,False,True
+1010,2014-03-19,8:00 pm,Utah Jazz,86,Memphis Grizzlies,96,Box Score,,,True,True,False
+1011,2014-03-19,8:00 pm,Toronto Raptors,107,New Orleans Pelicans,100,Box Score,,,False,False,True
+1012,2014-03-19,8:00 pm,Indiana Pacers,86,New York Knicks,92,Box Score,,,True,True,False
+1013,2014-03-19,7:00 pm,Chicago Bulls,102,Philadelphia 76ers,94,Box Score,,,False,False,True
+1014,2014-03-19,10:00 pm,Orlando Magic,93,Phoenix Suns,109,Box Score,,,True,True,False
+1015,2014-03-20,7:00 pm,Oklahoma City Thunder,102,Cleveland Cavaliers,95,Box Score,,,False,False,True
+1016,2014-03-20,10:30 pm,Milwaukee Bucks,110,Golden State Warriors,115,Box Score,,,True,True,False
+1017,2014-03-20,8:00 pm,Minnesota Timberwolves,106,Houston Rockets,129,Box Score,,,True,True,False
+1018,2014-03-20,10:00 pm,Washington Wizards,103,Portland Trail Blazers,116,Box Score,,,True,True,False
+1019,2014-03-21,7:30 pm,New Orleans Pelicans,111,Atlanta Hawks,105,Box Score,,,False,False,True
+1020,2014-03-21,7:30 pm,Boston Celtics,98,Brooklyn Nets,114,Box Score,,,True,True,False
+1021,2014-03-21,8:30 pm,Denver Nuggets,106,Dallas Mavericks,122,Box Score,,,True,True,False
+1022,2014-03-21,7:00 pm,Chicago Bulls,79,Indiana Pacers,91,Box Score,,,True,True,False
+1023,2014-03-21,10:30 pm,Washington Wizards,117,Los Angeles Lakers,107,Box Score,,,False,False,True
+1024,2014-03-21,7:30 pm,Memphis Grizzlies,86,Miami Heat,91,Box Score,,,True,True,False
+1025,2014-03-21,7:00 pm,New York Knicks,93,Philadelphia 76ers,92,Box Score,,,False,False,True
+1026,2014-03-21,10:00 pm,Detroit Pistons,92,Phoenix Suns,98,Box Score,,,True,True,False
+1027,2014-03-21,10:00 pm,San Antonio Spurs,99,Sacramento Kings,79,Box Score,,,False,False,True
+1028,2014-03-21,7:00 pm,Oklahoma City Thunder,119,Toronto Raptors,118,Box Score,2OT,,False,False,True
+1029,2014-03-22,7:00 pm,Portland Trail Blazers,94,Charlotte Bobcats,124,Box Score,,,True,True,False
+1030,2014-03-22,8:00 pm,Philadelphia 76ers,81,Chicago Bulls,91,Box Score,,,True,True,False
+1031,2014-03-22,7:30 pm,Houston Rockets,118,Cleveland Cavaliers,111,Box Score,,,False,False,True
+1032,2014-03-22,10:30 pm,San Antonio Spurs,99,Golden State Warriors,90,Box Score,,,False,False,True
+1033,2014-03-22,10:30 pm,Detroit Pistons,103,Los Angeles Clippers,112,Box Score,,,True,True,False
+1034,2014-03-22,8:00 pm,Indiana Pacers,71,Memphis Grizzlies,82,Box Score,,,True,True,False
+1035,2014-03-22,8:00 pm,Miami Heat,95,New Orleans Pelicans,105,Box Score,,,True,True,False
+1036,2014-03-22,9:00 pm,Orlando Magic,88,Utah Jazz,89,Box Score,,,True,True,False
+1037,2014-03-23,7:30 pm,Brooklyn Nets,107,Dallas Mavericks,104,Box Score,OT,,False,False,True
+1038,2014-03-23,5:00 pm,Washington Wizards,102,Denver Nuggets,105,Box Score,,,True,True,False
+1039,2014-03-23,9:30 pm,Orlando Magic,94,Los Angeles Lakers,103,Box Score,,,True,True,False
+1040,2014-03-23,3:30 pm,Phoenix Suns,127,Minnesota Timberwolves,120,Box Score,,,False,False,True
+1041,2014-03-23,7:30 pm,Cleveland Cavaliers,106,New York Knicks,100,Box Score,,,False,False,True
+1042,2014-03-23,6:00 pm,Milwaukee Bucks,107,Sacramento Kings,124,Box Score,,,True,True,False
+1043,2014-03-23,1:00 pm,Atlanta Hawks,86,Toronto Raptors,96,Box Score,,,True,True,False
+1044,2014-03-24,7:30 pm,Phoenix Suns,102,Atlanta Hawks,95,Box Score,,,False,False,True
+1045,2014-03-24,7:00 pm,Houston Rockets,100,Charlotte Bobcats,89,Box Score,,,False,False,True
+1046,2014-03-24,8:00 pm,Indiana Pacers,77,Chicago Bulls,89,Box Score,,,True,True,False
+1047,2014-03-24,10:30 pm,Milwaukee Bucks,98,Los Angeles Clippers,106,Box Score,,,True,True,False
+1048,2014-03-24,8:00 pm,Minnesota Timberwolves,92,Memphis Grizzlies,109,Box Score,,,True,True,False
+1049,2014-03-24,7:30 pm,Portland Trail Blazers,91,Miami Heat,93,Box Score,,,True,True,False
+1050,2014-03-24,8:00 pm,Brooklyn Nets,104,New Orleans Pelicans,109,Box Score,OT,,True,True,False
+1051,2014-03-24,8:00 pm,Denver Nuggets,96,Oklahoma City Thunder,117,Box Score,,,True,True,False
+1052,2014-03-24,8:30 pm,Philadelphia 76ers,91,San Antonio Spurs,113,Box Score,,,True,True,False
+1053,2014-03-24,9:00 pm,Detroit Pistons,114,Utah Jazz,94,Box Score,,,False,False,True
+1054,2014-03-25,7:00 pm,Toronto Raptors,100,Cleveland Cavaliers,102,Box Score,,,True,True,False
+1055,2014-03-25,8:00 pm,Oklahoma City Thunder,119,Dallas Mavericks,128,Box Score,OT,,True,True,False
+1056,2014-03-25,10:30 pm,New York Knicks,96,Los Angeles Lakers,127,Box Score,,,True,True,False
+1057,2014-03-25,7:00 pm,Portland Trail Blazers,85,Orlando Magic,95,Box Score,,,True,True,False
+1058,2014-03-26,7:30 pm,Toronto Raptors,99,Boston Celtics,90,Box Score,,,False,False,True
+1059,2014-03-26,7:00 pm,Brooklyn Nets,111,Charlotte Bobcats,116,Box Score,OT,,True,True,False
+1060,2014-03-26,7:30 pm,Cleveland Cavaliers,97,Detroit Pistons,96,Box Score,,,False,False,True
+1061,2014-03-26,8:00 pm,Miami Heat,83,Indiana Pacers,84,Box Score,,,True,True,False
+1062,2014-03-26,8:00 pm,Atlanta Hawks,83,Minnesota Timberwolves,107,Box Score,,,True,True,False
+1063,2014-03-26,8:00 pm,Los Angeles Clippers,96,New Orleans Pelicans,98,Box Score,,,True,True,False
+1064,2014-03-26,10:00 pm,New York Knicks,107,Sacramento Kings,99,Box Score,,,False,False,True
+1065,2014-03-26,8:30 pm,Denver Nuggets,103,San Antonio Spurs,108,Box Score,,,True,True,False
+1066,2014-03-26,10:30 pm,Memphis Grizzlies,91,Utah Jazz,87,Box Score,,,False,False,True
+1067,2014-03-26,7:00 pm,Phoenix Suns,99,Washington Wizards,93,Box Score,,,False,False,True
+1068,2014-03-27,7:30 pm,Portland Trail Blazers,100,Atlanta Hawks,85,Box Score,,,False,False,True
+1069,2014-03-27,8:30 pm,Los Angeles Clippers,109,Dallas Mavericks,103,Box Score,,,False,False,True
+1070,2014-03-27,8:00 pm,Philadelphia 76ers,98,Houston Rockets,120,Box Score,,,True,True,False
+1071,2014-03-27,8:00 pm,Los Angeles Lakers,105,Milwaukee Bucks,108,Box Score,,,True,True,False
+1072,2014-03-28,7:30 pm,Cleveland Cavaliers,97,Brooklyn Nets,108,Box Score,,,True,True,False
+1073,2014-03-28,8:00 pm,Portland Trail Blazers,91,Chicago Bulls,74,Box Score,,,False,False,True
+1074,2014-03-28,9:00 pm,San Antonio Spurs,133,Denver Nuggets,102,Box Score,,,False,False,True
+1075,2014-03-28,7:30 pm,Miami Heat,110,Detroit Pistons,78,Box Score,,,False,False,True
+1076,2014-03-28,10:30 pm,Memphis Grizzlies,93,Golden State Warriors,100,Box Score,,,True,True,False
+1077,2014-03-28,8:00 pm,Los Angeles Lakers,107,Minnesota Timberwolves,143,Box Score,,,True,True,False
+1078,2014-03-28,8:00 pm,Utah Jazz,95,New Orleans Pelicans,102,Box Score,,,True,True,False
+1079,2014-03-28,8:00 pm,Sacramento Kings,81,Oklahoma City Thunder,94,Box Score,,,True,True,False
+1080,2014-03-28,7:00 pm,Charlotte Bobcats,105,Orlando Magic,110,Box Score,OT,,True,True,False
+1081,2014-03-28,10:00 pm,New York Knicks,88,Phoenix Suns,112,Box Score,,,True,True,False
+1082,2014-03-28,7:00 pm,Boston Celtics,103,Toronto Raptors,105,Box Score,,,True,True,False
+1083,2014-03-28,7:00 pm,Indiana Pacers,78,Washington Wizards,91,Box Score,,,True,True,False
+1084,2014-03-29,8:30 pm,Sacramento Kings,100,Dallas Mavericks,103,Box Score,,,True,True,False
+1085,2014-03-29,8:00 pm,Los Angeles Clippers,118,Houston Rockets,107,Box Score,,,False,False,True
+1086,2014-03-29,8:30 pm,Miami Heat,88,Milwaukee Bucks,67,Box Score,,,False,False,True
+1087,2014-03-29,7:30 pm,Detroit Pistons,98,Philadelphia 76ers,123,Box Score,,,True,True,False
+1088,2014-03-29,8:30 pm,New Orleans Pelicans,80,San Antonio Spurs,96,Box Score,,,True,True,False
+1089,2014-03-29,8:00 pm,Atlanta Hawks,97,Washington Wizards,101,Box Score,,,True,True,False
+1090,2014-03-30,7:00 pm,Chicago Bulls,107,Boston Celtics,102,Box Score,,,False,False,True
+1091,2014-03-30,6:00 pm,Minnesota Timberwolves,99,Brooklyn Nets,114,Box Score,,,True,True,False
+1092,2014-03-30,3:00 pm,Indiana Pacers,76,Cleveland Cavaliers,90,Box Score,,,True,True,False
+1093,2014-03-30,9:00 pm,New York Knicks,89,Golden State Warriors,84,Box Score,,,False,False,True
+1094,2014-03-30,9:30 pm,Phoenix Suns,99,Los Angeles Lakers,115,Box Score,,,True,True,False
+1095,2014-03-30,3:00 pm,Utah Jazz,96,Oklahoma City Thunder,116,Box Score,,,True,True,False
+1096,2014-03-30,6:00 pm,Toronto Raptors,98,Orlando Magic,93,Box Score,,,False,False,True
+1097,2014-03-30,9:00 pm,Memphis Grizzlies,98,Portland Trail Blazers,105,Box Score,,,True,True,False
+1098,2014-03-31,7:30 pm,Philadelphia 76ers,95,Atlanta Hawks,103,Box Score,,,True,True,False
+1099,2014-03-31,7:00 pm,Washington Wizards,94,Charlotte Bobcats,100,Box Score,,,True,True,False
+1100,2014-03-31,8:00 pm,Boston Celtics,80,Chicago Bulls,94,Box Score,,,True,True,False
+1101,2014-03-31,9:00 pm,Memphis Grizzlies,94,Denver Nuggets,92,Box Score,,,False,False,True
+1102,2014-03-31,7:30 pm,Milwaukee Bucks,111,Detroit Pistons,116,Box Score,,,True,True,False
+1103,2014-03-31,7:00 pm,San Antonio Spurs,103,Indiana Pacers,77,Box Score,,,False,False,True
+1104,2014-03-31,7:30 pm,Toronto Raptors,83,Miami Heat,93,Box Score,,,True,True,False
+1105,2014-03-31,8:00 pm,Los Angeles Clippers,114,Minnesota Timberwolves,104,Box Score,,,False,False,True
+1106,2014-03-31,8:00 pm,Sacramento Kings,102,New Orleans Pelicans,97,Box Score,,,False,False,True
+1107,2014-03-31,9:00 pm,New York Knicks,92,Utah Jazz,83,Box Score,,,False,False,True
+1108,2014-04-01,8:00 pm,Houston Rockets,96,Brooklyn Nets,105,Box Score,,,True,True,False
+1109,2014-04-01,8:30 pm,Golden State Warriors,122,Dallas Mavericks,120,Box Score,OT,,False,False,True
+1110,2014-04-01,10:30 pm,Portland Trail Blazers,124,Los Angeles Lakers,112,Box Score,,,False,False,True
+1111,2014-04-02,7:30 pm,Chicago Bulls,105,Atlanta Hawks,92,Box Score,,,False,False,True
+1112,2014-04-02,9:00 pm,New Orleans Pelicans,107,Denver Nuggets,137,Box Score,,,True,True,False
+1113,2014-04-02,7:00 pm,Detroit Pistons,94,Indiana Pacers,101,Box Score,,,True,True,False
+1114,2014-04-02,7:30 pm,Milwaukee Bucks,77,Miami Heat,96,Box Score,,,True,True,False
+1115,2014-04-02,8:00 pm,Memphis Grizzlies,88,Minnesota Timberwolves,102,Box Score,,,True,True,False
+1116,2014-04-02,7:00 pm,Brooklyn Nets,81,New York Knicks,110,Box Score,,,True,True,False
+1117,2014-04-02,7:00 pm,Cleveland Cavaliers,119,Orlando Magic,98,Box Score,,,False,False,True
+1118,2014-04-02,7:00 pm,Charlotte Bobcats,123,Philadelphia 76ers,93,Box Score,,,False,False,True
+1119,2014-04-02,10:00 pm,Los Angeles Clippers,112,Phoenix Suns,108,Box Score,,,False,False,True
+1120,2014-04-02,10:00 pm,Los Angeles Lakers,102,Sacramento Kings,107,Box Score,,,True,True,False
+1121,2014-04-02,8:30 pm,Golden State Warriors,90,San Antonio Spurs,111,Box Score,,,True,True,False
+1122,2014-04-02,7:00 pm,Houston Rockets,103,Toronto Raptors,107,Box Score,,,True,True,False
+1123,2014-04-02,7:00 pm,Boston Celtics,92,Washington Wizards,118,Box Score,,,True,True,False
+1124,2014-04-03,10:30 pm,Dallas Mavericks,113,Los Angeles Clippers,107,Box Score,,,False,False,True
+1125,2014-04-03,8:00 pm,San Antonio Spurs,94,Oklahoma City Thunder,106,Box Score,,,True,True,False
+1126,2014-04-04,7:30 pm,Cleveland Cavaliers,98,Atlanta Hawks,117,Box Score,,,True,True,False
+1127,2014-04-04,7:30 pm,Philadelphia 76ers,111,Boston Celtics,102,Box Score,,,False,False,True
+1128,2014-04-04,7:30 pm,Detroit Pistons,104,Brooklyn Nets,116,Box Score,,,True,True,False
+1129,2014-04-04,7:00 pm,Orlando Magic,80,Charlotte Bobcats,91,Box Score,,,True,True,False
+1130,2014-04-04,8:00 pm,Milwaukee Bucks,90,Chicago Bulls,102,Box Score,,,True,True,False
+1131,2014-04-04,10:30 pm,Sacramento Kings,69,Golden State Warriors,102,Box Score,,,True,True,False
+1132,2014-04-04,9:30 pm,Oklahoma City Thunder,107,Houston Rockets,111,Box Score,,,True,True,False
+1133,2014-04-04,10:30 pm,Dallas Mavericks,107,Los Angeles Lakers,95,Box Score,,,False,False,True
+1134,2014-04-04,7:00 pm,Denver Nuggets,92,Memphis Grizzlies,100,Box Score,,,True,True,False
+1135,2014-04-04,7:30 pm,Minnesota Timberwolves,122,Miami Heat,121,Box Score,2OT,,False,False,True
+1136,2014-04-04,7:30 pm,Washington Wizards,90,New York Knicks,89,Box Score,,,False,False,True
+1137,2014-04-04,10:00 pm,Phoenix Suns,109,Portland Trail Blazers,93,Box Score,,,False,False,True
+1138,2014-04-04,7:00 pm,Indiana Pacers,94,Toronto Raptors,102,Box Score,,,True,True,False
+1139,2014-04-04,9:00 pm,New Orleans Pelicans,96,Utah Jazz,100,Box Score,,,True,True,False
+1140,2014-04-05,7:30 pm,Charlotte Bobcats,96,Cleveland Cavaliers,94,Box Score,OT,,False,False,True
+1141,2014-04-05,7:30 pm,Boston Celtics,111,Detroit Pistons,115,Box Score,,,True,True,False
+1142,2014-04-05,8:30 pm,Toronto Raptors,102,Milwaukee Bucks,98,Box Score,,,False,False,True
+1143,2014-04-05,7:00 pm,Minnesota Timberwolves,92,Orlando Magic,100,Box Score,,,True,True,False
+1144,2014-04-05,7:30 pm,Brooklyn Nets,105,Philadelphia 76ers,101,Box Score,,,False,False,True
+1145,2014-04-05,7:00 pm,Chicago Bulls,96,Washington Wizards,78,Box Score,,,False,False,True
+1146,2014-04-06,9:00 pm,Utah Jazz,102,Golden State Warriors,130,Box Score,,,True,True,False
+1147,2014-04-06,7:00 pm,Denver Nuggets,125,Houston Rockets,130,Box Score,OT,,True,True,False
+1148,2014-04-06,6:00 pm,Atlanta Hawks,107,Indiana Pacers,88,Box Score,,,False,False,True
+1149,2014-04-06,3:30 pm,Los Angeles Lakers,97,Los Angeles Clippers,120,Box Score,,,True,True,False
+1150,2014-04-06,1:00 pm,New York Knicks,91,Miami Heat,102,Box Score,,,True,True,False
+1151,2014-04-06,9:00 pm,Oklahoma City Thunder,115,Phoenix Suns,122,Box Score,,,True,True,False
+1152,2014-04-06,9:00 pm,New Orleans Pelicans,94,Portland Trail Blazers,100,Box Score,,,True,True,False
+1153,2014-04-06,6:00 pm,Dallas Mavericks,93,Sacramento Kings,91,Box Score,,,False,False,True
+1154,2014-04-06,7:00 pm,Memphis Grizzlies,92,San Antonio Spurs,112,Box Score,,,True,True,False
+1155,2014-04-08,7:30 pm,Detroit Pistons,102,Atlanta Hawks,95,Box Score,,,False,False,True
+1156,2014-04-08,10:30 pm,Houston Rockets,145,Los Angeles Lakers,130,Box Score,,,False,False,True
+1157,2014-04-08,8:00 pm,Brooklyn Nets,88,Miami Heat,87,Box Score,,,False,False,True
+1158,2014-04-08,8:00 pm,San Antonio Spurs,91,Minnesota Timberwolves,110,Box Score,,,True,True,False
+1159,2014-04-08,10:00 pm,Oklahoma City Thunder,107,Sacramento Kings,92,Box Score,,,False,False,True
+1160,2014-04-08,9:00 pm,Dallas Mavericks,95,Utah Jazz,83,Box Score,,,False,False,True
+1161,2014-04-09,7:30 pm,Boston Celtics,97,Atlanta Hawks,105,Box Score,,,True,True,False
+1162,2014-04-09,7:00 pm,Detroit Pistons,100,Cleveland Cavaliers,122,Box Score,,,True,True,False
+1163,2014-04-09,9:00 pm,Houston Rockets,116,Denver Nuggets,123,Box Score,,,True,True,False
+1164,2014-04-09,10:30 pm,Oklahoma City Thunder,107,Los Angeles Clippers,101,Box Score,,,False,False,True
+1165,2014-04-09,8:00 pm,Miami Heat,102,Memphis Grizzlies,107,Box Score,,,True,True,False
+1166,2014-04-09,8:00 pm,Indiana Pacers,104,Milwaukee Bucks,102,Box Score,,,False,False,True
+1167,2014-04-09,8:00 pm,Chicago Bulls,102,Minnesota Timberwolves,87,Box Score,,,False,False,True
+1168,2014-04-09,8:00 pm,Phoenix Suns,94,New Orleans Pelicans,88,Box Score,,,False,False,True
+1169,2014-04-09,7:00 pm,Brooklyn Nets,111,Orlando Magic,115,Box Score,,,True,True,False
+1170,2014-04-09,10:00 pm,Sacramento Kings,99,Portland Trail Blazers,100,Box Score,,,True,True,False
+1171,2014-04-09,7:00 pm,Philadelphia 76ers,114,Toronto Raptors,125,Box Score,,,True,True,False
+1172,2014-04-09,7:00 pm,Charlotte Bobcats,94,Washington Wizards,88,Box Score,OT,,False,False,True
+1173,2014-04-10,8:00 pm,San Antonio Spurs,109,Dallas Mavericks,100,Box Score,,,False,False,True
+1174,2014-04-10,10:30 pm,Denver Nuggets,100,Golden State Warriors,99,Box Score,,,False,False,True
+1175,2014-04-11,7:30 pm,Charlotte Bobcats,103,Boston Celtics,106,Box Score,,,True,True,False
+1176,2014-04-11,7:30 pm,Atlanta Hawks,93,Brooklyn Nets,88,Box Score,,,False,False,True
+1177,2014-04-11,8:00 pm,Detroit Pistons,98,Chicago Bulls,106,Box Score,,,True,True,False
+1178,2014-04-11,10:30 pm,Golden State Warriors,112,Los Angeles Lakers,95,Box Score,,,False,False,True
+1179,2014-04-11,8:00 pm,Philadelphia 76ers,95,Memphis Grizzlies,117,Box Score,,,True,True,False
+1180,2014-04-11,7:30 pm,Indiana Pacers,86,Miami Heat,98,Box Score,,,True,True,False
+1181,2014-04-11,8:30 pm,Cleveland Cavaliers,116,Milwaukee Bucks,119,Box Score,,,True,True,False
+1182,2014-04-11,8:00 pm,Houston Rockets,110,Minnesota Timberwolves,112,Box Score,,,True,True,False
+1183,2014-04-11,8:00 pm,New Orleans Pelicans,94,Oklahoma City Thunder,116,Box Score,,,True,True,False
+1184,2014-04-11,7:00 pm,Washington Wizards,96,Orlando Magic,86,Box Score,,,False,False,True
+1185,2014-04-11,8:30 pm,Phoenix Suns,104,San Antonio Spurs,112,Box Score,,,True,True,False
+1186,2014-04-11,7:00 pm,New York Knicks,108,Toronto Raptors,100,Box Score,,,False,False,True
+1187,2014-04-11,9:00 pm,Portland Trail Blazers,111,Utah Jazz,99,Box Score,,,False,False,True
+1188,2014-04-12,7:30 pm,Miami Heat,85,Atlanta Hawks,98,Box Score,,,True,True,False
+1189,2014-04-12,7:00 pm,Philadelphia 76ers,105,Charlotte Bobcats,111,Box Score,,,True,True,False
+1190,2014-04-12,7:30 pm,Boston Celtics,111,Cleveland Cavaliers,99,Box Score,,,False,False,True
+1191,2014-04-12,8:30 pm,Phoenix Suns,98,Dallas Mavericks,101,Box Score,,,True,True,False
+1192,2014-04-12,9:00 pm,Utah Jazz,94,Denver Nuggets,101,Box Score,,,True,True,False
+1193,2014-04-12,8:00 pm,New Orleans Pelicans,104,Houston Rockets,111,Box Score,,,True,True,False
+1194,2014-04-12,3:30 pm,Sacramento Kings,101,Los Angeles Clippers,117,Box Score,,,True,True,False
+1195,2014-04-12,7:00 pm,Milwaukee Bucks,91,Washington Wizards,104,Box Score,,,True,True,False
+1196,2014-04-13,6:00 pm,Orlando Magic,88,Brooklyn Nets,97,Box Score,,,True,True,False
+1197,2014-04-13,3:30 pm,Toronto Raptors,116,Detroit Pistons,107,Box Score,,,False,False,True
+1198,2014-04-13,1:00 pm,Oklahoma City Thunder,97,Indiana Pacers,102,Box Score,,,True,True,False
+1199,2014-04-13,9:30 pm,Memphis Grizzlies,102,Los Angeles Lakers,90,Box Score,,,False,False,True
+1200,2014-04-13,7:30 pm,Chicago Bulls,89,New York Knicks,100,Box Score,,,True,True,False
+1201,2014-04-13,9:00 pm,Golden State Warriors,117,Portland Trail Blazers,119,Box Score,OT,,True,True,False
+1202,2014-04-13,9:00 pm,Minnesota Timberwolves,103,Sacramento Kings,106,Box Score,,,True,True,False
+1203,2014-04-14,7:30 pm,Charlotte Bobcats,95,Atlanta Hawks,93,Box Score,,,False,False,True
+1204,2014-04-14,8:00 pm,Orlando Magic,95,Chicago Bulls,108,Box Score,,,True,True,False
+1205,2014-04-14,10:30 pm,Minnesota Timberwolves,120,Golden State Warriors,130,Box Score,,,True,True,False
+1206,2014-04-14,8:00 pm,San Antonio Spurs,98,Houston Rockets,104,Box Score,,,True,True,False
+1207,2014-04-14,8:00 pm,Oklahoma City Thunder,89,New Orleans Pelicans,101,Box Score,,,True,True,False
+1208,2014-04-14,7:00 pm,Boston Celtics,108,Philadelphia 76ers,113,Box Score,,,True,True,False
+1209,2014-04-14,10:00 pm,Memphis Grizzlies,97,Phoenix Suns,91,Box Score,,,False,False,True
+1210,2014-04-14,7:00 pm,Milwaukee Bucks,100,Toronto Raptors,110,Box Score,,,True,True,False
+1211,2014-04-14,9:00 pm,Los Angeles Lakers,119,Utah Jazz,104,Box Score,,,False,False,True
+1212,2014-04-14,7:00 pm,Miami Heat,93,Washington Wizards,114,Box Score,,,True,True,False
+1213,2014-04-15,8:00 pm,New York Knicks,109,Brooklyn Nets,98,Box Score,,,False,False,True
+1214,2014-04-15,10:30 pm,Denver Nuggets,105,Los Angeles Clippers,117,Box Score,,,True,True,False
+1215,2014-04-16,8:00 pm,Washington Wizards,118,Boston Celtics,102,Box Score,,,False,False,True
+1216,2014-04-16,7:00 pm,Chicago Bulls,86,Charlotte Bobcats,91,Box Score,OT,,True,True,False
+1217,2014-04-16,8:00 pm,Brooklyn Nets,85,Cleveland Cavaliers,114,Box Score,,,True,True,False
+1218,2014-04-16,10:30 pm,Golden State Warriors,116,Denver Nuggets,112,Box Score,,,False,False,True
+1219,2014-04-16,8:00 pm,Dallas Mavericks,105,Memphis Grizzlies,106,Box Score,OT,,True,True,False
+1220,2014-04-16,8:00 pm,Philadelphia 76ers,100,Miami Heat,87,Box Score,,,False,False,True
+1221,2014-04-16,8:00 pm,Atlanta Hawks,111,Milwaukee Bucks,103,Box Score,,,False,False,True
+1222,2014-04-16,8:00 pm,Utah Jazz,136,Minnesota Timberwolves,130,Box Score,2OT,,False,False,True
+1223,2014-04-16,8:00 pm,Houston Rockets,100,New Orleans Pelicans,105,Box Score,,,True,True,False
+1224,2014-04-16,8:00 pm,Toronto Raptors,92,New York Knicks,95,Box Score,,,True,True,False
+1225,2014-04-16,8:00 pm,Detroit Pistons,111,Oklahoma City Thunder,112,Box Score,,,True,True,False
+1226,2014-04-16,7:00 pm,Indiana Pacers,101,Orlando Magic,86,Box Score,,,False,False,True
+1227,2014-04-16,10:30 pm,Los Angeles Clippers,104,Portland Trail Blazers,110,Box Score,,,True,True,False
+1228,2014-04-16,10:30 pm,Phoenix Suns,104,Sacramento Kings,99,Box Score,,,False,False,True
+1229,2014-04-16,8:00 pm,Los Angeles Lakers,113,San Antonio Spurs,100,Box Score,,,False,False,True
+1230,2014-04-19,7:00 pm,Atlanta Hawks,101,Indiana Pacers,93,Box Score,,,False,False,True
+1231,2014-04-19,3:30 pm,Golden State Warriors,109,Los Angeles Clippers,105,Box Score,,,False,False,True
+1232,2014-04-19,9:43 pm,Memphis Grizzlies,86,Oklahoma City Thunder,100,Box Score,,,True,True,False
+1233,2014-04-19,12:30 am,Brooklyn Nets,94,Toronto Raptors,87,Box Score,,,False,False,True
+1234,2014-04-20,7:00 pm,Washington Wizards,102,Chicago Bulls,93,Box Score,,,False,False,True
+1235,2014-04-20,9:30 pm,Portland Trail Blazers,122,Houston Rockets,120,Box Score,OT,,False,False,True
+1236,2014-04-20,3:30 pm,Charlotte Bobcats,88,Miami Heat,99,Box Score,,,True,True,False
+1237,2014-04-20,1:00 pm,Dallas Mavericks,85,San Antonio Spurs,90,Box Score,,,True,True,False
+1238,2014-04-21,10:30 pm,Golden State Warriors,98,Los Angeles Clippers,138,Box Score,,,True,True,False
+1239,2014-04-21,8:00 pm,Memphis Grizzlies,111,Oklahoma City Thunder,105,Box Score,OT,,False,False,True
+1240,2014-04-22,9:30 pm,Washington Wizards,101,Chicago Bulls,99,Box Score,OT,,False,False,True
+1241,2014-04-22,7:00 pm,Atlanta Hawks,85,Indiana Pacers,101,Box Score,,,True,True,False
+1242,2014-04-22,7:30 pm,Brooklyn Nets,95,Toronto Raptors,100,Box Score,,,True,True,False
+1243,2014-04-23,9:30 pm,Portland Trail Blazers,112,Houston Rockets,105,Box Score,,,False,False,True
+1244,2014-04-23,7:00 pm,Charlotte Bobcats,97,Miami Heat,101,Box Score,,,True,True,False
+1245,2014-04-23,8:00 pm,Dallas Mavericks,113,San Antonio Spurs,92,Box Score,,,False,False,True
+1246,2014-04-24,7:00 pm,Indiana Pacers,85,Atlanta Hawks,98,Box Score,,,True,True,False
+1247,2014-04-24,10:30 pm,Los Angeles Clippers,98,Golden State Warriors,96,Box Score,,,False,False,True
+1248,2014-04-24,8:00 pm,Oklahoma City Thunder,95,Memphis Grizzlies,98,Box Score,OT,,True,True,False
+1249,2014-04-25,7:00 pm,Toronto Raptors,98,Brooklyn Nets,102,Box Score,,,True,True,False
+1250,2014-04-25,10:30 pm,Houston Rockets,121,Portland Trail Blazers,116,Box Score,OT,,False,False,True
+1251,2014-04-25,8:00 pm,Chicago Bulls,100,Washington Wizards,97,Box Score,,,False,False,True
+1252,2014-04-26,2:00 pm,Indiana Pacers,91,Atlanta Hawks,88,Box Score,,,False,False,True
+1253,2014-04-26,7:00 pm,Miami Heat,98,Charlotte Bobcats,85,Box Score,,,False,False,True
+1254,2014-04-26,4:30 pm,San Antonio Spurs,108,Dallas Mavericks,109,Box Score,,,True,True,False
+1255,2014-04-26,9:30 pm,Oklahoma City Thunder,92,Memphis Grizzlies,89,Box Score,OT,,False,False,True
+1256,2014-04-27,7:00 pm,Toronto Raptors,87,Brooklyn Nets,79,Box Score,,,False,False,True
+1257,2014-04-27,3:30 pm,Los Angeles Clippers,97,Golden State Warriors,118,Box Score,,,True,True,False
+1258,2014-04-27,9:30 pm,Houston Rockets,120,Portland Trail Blazers,123,Box Score,OT,,True,True,False
+1259,2014-04-27,1:00 pm,Chicago Bulls,89,Washington Wizards,98,Box Score,,,True,True,False
+1260,2014-04-28,7:00 pm,Miami Heat,109,Charlotte Bobcats,98,Box Score,,,False,False,True
+1261,2014-04-28,9:30 pm,San Antonio Spurs,93,Dallas Mavericks,89,Box Score,,,False,False,True
+1262,2014-04-28,8:00 pm,Atlanta Hawks,107,Indiana Pacers,97,Box Score,,,False,False,True
+1263,2014-04-29,8:00 pm,Washington Wizards,75,Chicago Bulls,69,Box Score,,,False,False,True
+1264,2014-04-29,10:30 pm,Golden State Warriors,103,Los Angeles Clippers,113,Box Score,,,True,True,False
+1265,2014-04-29,9:00 pm,Memphis Grizzlies,100,Oklahoma City Thunder,99,Box Score,OT,,False,False,True
+1266,2014-04-30,9:30 pm,Portland Trail Blazers,98,Houston Rockets,108,Box Score,,,True,True,False
+1267,2014-04-30,7:00 pm,Dallas Mavericks,103,San Antonio Spurs,109,Box Score,,,True,True,False
+1268,2014-04-30,7:30 pm,Brooklyn Nets,113,Toronto Raptors,115,Box Score,,,True,True,False
+1269,2014-05-01,7:00 pm,Indiana Pacers,95,Atlanta Hawks,88,Box Score,,,False,False,True
+1270,2014-05-01,10:30 pm,Los Angeles Clippers,99,Golden State Warriors,100,Box Score,,,True,True,False
+1271,2014-05-01,8:00 pm,Oklahoma City Thunder,104,Memphis Grizzlies,84,Box Score,,,False,False,True
+1272,2014-05-02,7:00 pm,Toronto Raptors,83,Brooklyn Nets,97,Box Score,,,True,True,False
+1273,2014-05-02,8:00 pm,San Antonio Spurs,111,Dallas Mavericks,113,Box Score,,,True,True,False
+1274,2014-05-02,10:30 pm,Houston Rockets,98,Portland Trail Blazers,99,Box Score,,,True,True,False
+1275,2014-05-03,5:30 pm,Atlanta Hawks,80,Indiana Pacers,92,Box Score,,,True,True,False
+1276,2014-05-03,10:30 pm,Golden State Warriors,121,Los Angeles Clippers,126,Box Score,,,True,True,False
+1277,2014-05-03,8:00 pm,Memphis Grizzlies,109,Oklahoma City Thunder,120,Box Score,,,True,True,False
+1278,2014-05-04,3:30 pm,Dallas Mavericks,96,San Antonio Spurs,119,Box Score,,,True,True,False
+1279,2014-05-04,1:00 pm,Brooklyn Nets,104,Toronto Raptors,103,Box Score,,,False,False,True
+1280,2014-05-05,7:00 pm,Washington Wizards,102,Indiana Pacers,96,Box Score,,,False,False,True
+1281,2014-05-05,9:42 pm,Los Angeles Clippers,122,Oklahoma City Thunder,105,Box Score,,,False,False,True
+1282,2014-05-06,7:00 pm,Brooklyn Nets,86,Miami Heat,107,Box Score,,,True,True,False
+1283,2014-05-06,9:30 pm,Portland Trail Blazers,92,San Antonio Spurs,116,Box Score,,,True,True,False
+1284,2014-05-07,7:00 pm,Washington Wizards,82,Indiana Pacers,86,Box Score,,,True,True,False
+1285,2014-05-07,9:30 pm,Los Angeles Clippers,101,Oklahoma City Thunder,112,Box Score,,,True,True,False
+1286,2014-05-08,7:00 pm,Brooklyn Nets,82,Miami Heat,94,Box Score,,,True,True,False
+1287,2014-05-08,9:30 pm,Portland Trail Blazers,97,San Antonio Spurs,114,Box Score,,,True,True,False
+1288,2014-05-09,10:30 pm,Oklahoma City Thunder,118,Los Angeles Clippers,112,Box Score,,,False,False,True
+1289,2014-05-09,8:00 pm,Indiana Pacers,85,Washington Wizards,63,Box Score,,,False,False,True
+1290,2014-05-10,8:00 pm,Miami Heat,90,Brooklyn Nets,104,Box Score,,,True,True,False
+1291,2014-05-10,10:30 pm,San Antonio Spurs,118,Portland Trail Blazers,103,Box Score,,,False,False,True
+1292,2014-05-11,3:30 pm,Oklahoma City Thunder,99,Los Angeles Clippers,101,Box Score,,,True,True,False
+1293,2014-05-11,8:00 pm,Indiana Pacers,95,Washington Wizards,92,Box Score,,,False,False,True
+1294,2014-05-12,8:00 pm,Miami Heat,102,Brooklyn Nets,96,Box Score,,,False,False,True
+1295,2014-05-12,10:30 pm,San Antonio Spurs,92,Portland Trail Blazers,103,Box Score,,,True,True,False
+1296,2014-05-13,7:00 pm,Washington Wizards,102,Indiana Pacers,79,Box Score,,,False,False,True
+1297,2014-05-13,9:30 pm,Los Angeles Clippers,104,Oklahoma City Thunder,105,Box Score,,,True,True,False
+1298,2014-05-14,7:00 pm,Brooklyn Nets,94,Miami Heat,96,Box Score,,,True,True,False
+1299,2014-05-14,9:30 pm,Portland Trail Blazers,82,San Antonio Spurs,104,Box Score,,,True,True,False
+1300,2014-05-15,10:30 pm,Oklahoma City Thunder,104,Los Angeles Clippers,98,Box Score,,,False,False,True
+1301,2014-05-15,8:00 pm,Indiana Pacers,93,Washington Wizards,80,Box Score,,,False,False,True
+1302,2014-05-18,3:30 pm,Miami Heat,96,Indiana Pacers,107,Box Score,,,True,True,False
+1303,2014-05-19,9:00 pm,Oklahoma City Thunder,105,San Antonio Spurs,122,Box Score,,,True,True,False
+1304,2014-05-20,8:30 pm,Miami Heat,87,Indiana Pacers,83,Box Score,,,False,False,True
+1305,2014-05-21,9:00 pm,Oklahoma City Thunder,77,San Antonio Spurs,112,Box Score,,,True,True,False
+1306,2014-05-24,8:30 pm,Indiana Pacers,87,Miami Heat,99,Box Score,,,True,True,False
+1307,2014-05-25,8:30 pm,San Antonio Spurs,97,Oklahoma City Thunder,106,Box Score,,,True,True,False
+1308,2014-05-26,8:30 pm,Indiana Pacers,90,Miami Heat,102,Box Score,,,True,True,False
+1309,2014-05-27,9:00 pm,San Antonio Spurs,92,Oklahoma City Thunder,105,Box Score,,,True,True,False
+1310,2014-05-28,8:30 pm,Miami Heat,90,Indiana Pacers,93,Box Score,,,True,True,False
+1311,2014-05-29,9:00 pm,Oklahoma City Thunder,89,San Antonio Spurs,117,Box Score,,,True,True,False
+1312,2014-05-30,8:30 pm,Indiana Pacers,92,Miami Heat,117,Box Score,,,True,True,False
+1313,2014-05-31,8:30 pm,San Antonio Spurs,112,Oklahoma City Thunder,107,Box Score,OT,,False,False,True
+1314,2014-06-05,9:00 pm,Miami Heat,95,San Antonio Spurs,110,Box Score,,,True,True,False
+1315,2014-06-08,8:00 pm,Miami Heat,98,San Antonio Spurs,96,Box Score,,,False,False,True
+1316,2014-06-10,9:00 pm,San Antonio Spurs,111,Miami Heat,92,Box Score,,,False,False,True
+1317,2014-06-12,9:00 pm,San Antonio Spurs,107,Miami Heat,86,Box Score,,,False,False,True
+1318,2014-06-15,8:00 pm,Miami Heat,87,San Antonio Spurs,104,Box Score,,,True,True,False
