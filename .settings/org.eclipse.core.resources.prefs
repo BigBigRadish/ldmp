@@ -1,10 +1,13 @@
 eclipse.preferences.version=1
-encoding//chapter3/3.1.py=UTF-8
-encoding//chapter4/4.1.py=UTF-8
-encoding//chapter5/5.0.py=UTF-8
+encoding//chapter3/3.1.py=utf-8
+encoding//chapter4/4.1.py=utf-8
+encoding//chapter5/5.0.py=utf-8
 encoding//chapter6/1.html=UTF-8
 encoding//chapter6/dataset=UTF-8
 encoding//chapter6/dataset/twitter_data.json=UTF-8
-encoding//chapter7/twitter_user_info_crawl.py=UTF-8
+encoding//chapter6/twitter_data_download.py=utf-8
+encoding//chapter6/twitter_data_lable.py=utf-8
+encoding//chapter7/get_user_friends.py=utf-8
+encoding//chapter7/twitter_user_info_crawl.py=utf-8
 encoding/chapter6=UTF-8
 encoding/chapter7=UTF-8
